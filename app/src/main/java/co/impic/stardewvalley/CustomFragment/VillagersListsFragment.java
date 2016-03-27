@@ -60,7 +60,10 @@ public class VillagersListsFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
         AdView adView = (AdView) view.findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().addTestDevice("272DDD5399A8569C9C1C6A5967EC5282").build();
+        AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+                .addTestDevice("272DDD5399A8569C9C1C6A5967EC5282")
+                .build();
         adView.loadAd(adRequest);
 
         mRecyclerView = (RecyclerView) view.findViewById(R.id.VillagersListsRecyclerView);
