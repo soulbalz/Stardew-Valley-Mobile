@@ -1,0 +1,130 @@
+{
+    "name": "Sandy",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png?resize=150%2C150",
+    "birthday": "วันที่ 15 ฤดูใบไม้ร่วง (Fall 15)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“My name’s not really Sandy, you know. It’s just good for business.” — Sandy\nแซนดี้เป็นชาวบ้านที่อาศัยอยู่ใน Calico Desert เธอเปิดร้านขายของอยู่ที่ Oasis. Players won’t meet her until they’ve completed the vault bundle to repair the bus to the desert.",
+    "gift": {
+        "best": {
+            "en_msg": "“Ooo! I absolutely love getting flowers from the valley. I’m so happy!”",
+            "th_msg": "“โอ้! ฉันรักการที่ได้ดอกไม้จากหุบเขาจริงๆนะ. มีความสุขจริงๆ!~”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This looks wonderful. Thanks so much!”",
+            "th_msg": "“ยอดเยี่ยมไปเลย. ขอบคุณมากนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ผลไม้ทุกชนิด All Fruit",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/45/Goat_Milk.png?resize=48%2C48",
+                    "name": "Goat Milk",
+                    "found_in": "Goats"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/72/L_Goat_Milk.png?resize=48%2C48",
+                    "name": "L. Goat Milk",
+                    "found_in": "Goats"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/3/34/Wool.png?resize=48%2C48",
+                    "name": "Wool",
+                    "found_in": "Sheep, Rabbits"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png?resize=48%2C48",
+                    "name": "Cloth",
+                    "found_in": "Artisan Goods"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“This is for me? Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png?resize=48%2C48",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Oh… Um. Thanks.”",
+            "th_msg": "“โอ้….อืม.ขอบคุณ.”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ปลาทุกชนิด  All Fish",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“*sniff* …what is it?”",
+            "th_msg": "“*ดม* … อะไรเนี่ย?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}

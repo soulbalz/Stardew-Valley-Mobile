@@ -1,0 +1,270 @@
+{
+    "name": "Haley (เฮเลย์)",
+    "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Haley.png?w=122",
+    "birthday": "วันที่ 14 ฤดูใบไม้ผลิ (Spring 14)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“การที่เป็นคนรวยและดาวเด่นในโรงเรียนทำให้เฮลี่ย์เป็นคนที่ค่อนข้างหยิ่งทะนงตัวและชอบยกความคิดของตัวเองเป็นหลักโดยไม่สนใจใคร เธอมีนิสัยชอบเอาเหตุผลตื้นๆมาตัดสินคนอื่นอยู่เสมอ\nมันจะสายไปสำหรับเธอมั้ยนะที่จะค้นหาความหมายของคำว่าชีวิตอย่างลึกซึ้ง มีความสุขและเปิดใจเธอที่ถูกซ่อนอยู่ภายในเปลือกสีหวานนั่นมั้ยนะ?”\nเฮลี่ย์เป็นชาวบ้านที่อาศัยอยู่ใน Pelican Town เธอเป็นหนึ่งในสิบคนที่สามารถขอแต่งงานได้",
+    "gift": {
+        "best": {
+            "en_msg": "“Oh my god, this is my favorite thing!!”",
+            "th_msg": "",
+            "note": "Haley เกลียด Prismatic Shard",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png?resize=48%2C48",
+                    "name": "Pink Cake",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png?resize=48%2C48",
+                    "name": "Coconut",
+                    "found_in": "Foraging – Desert"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png?resize=48%2C48",
+                    "name": "Fruit Salad",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png?resize=48%2C48",
+                    "name": "Sunflower",
+                    "found_in": "Farming – Fall"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“*gasp*…for me? Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png?resize=48%2C48",
+                    "name": "Cookie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Wild Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png?resize=48%2C48",
+                    "name": "Aquamarine",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png?resize=48%2C48",
+                    "name": "Topaz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/20/Cherry.png?resize=48%2C48",
+                    "name": "Cherry",
+                    "found_in": "Fruit Trees"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thank you. I love presents.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png?resize=48%2C48",
+                    "name": "Clam",
+                    "found_in": "Foraging – Beach"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png?resize=48%2C48",
+                    "name": "Coral",
+                    "found_in": "Foraging – Beach"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Ugh…that’s such a stupid gift.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Trash"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“What were you thinking? This is awful!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png?resize=48%2C48",
+                    "name": "Prismatic Shard",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "เมื่อไปที่บ้านของเฮลีย์ คุณจะพบว่าเธอกำลังทะเลาะกับเอมิลี่อยู่ เฮลีย์ไม่พอใจที่เอมิลี่ปฏิเสธที่จะทำความสะอาดเบาะรองนั่งในสัปดาห์นี้ ทั้งที่เธอทำความสะอาดไปแล้วในสัปดาห์ก่อน เอมิลี่จะบอกว่าเธอต้องทำงานข้างนอกเหมือนกันและเธอจะบอกว่าเฮลีย์ทำตัวเหมือนเด็ก คุณจะต้องแก้ปัญหาให้คนทั้งสอง โดยมีสามทางเลือกคือ “หยุดบ่นแล้วทำความสะอาดซะ!” เฮลีย์จะโกรธจนลมออกหูและทำความสะอาดเบาะรองนั่ง , “เฮลีย์ ทำไมถึงไม่ทำงานของตัวเอง?” ทั้งสองจะตกลงแม้ว่าเฮลีย์จะไม่พอใจกับมัน , “เอมิลี่ เลือกทำในสิ่งที่ถูกต้องและทำความสะอาดมัน” เฮลีย์จะไม่พอใจที่คุณคิดว่าเธอทำตัวเหมือนเด็ก …แต่ไม่ว่าคุณจะเลือกทางไหนความสัมพันธ์ก็จะไม่ติดลบ"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "เมื่อเข้ามาในบ้านของเธอ จะเห็นว่าเธอกำลังพยายามเปิดขวดอยู่ เธอจะขอให้คุณเปิดขวดให้เธอ หลังจากเปิดขวดได้แล้ว เฮลีย์จะบอกว่าคุณแข็งแกร่งมากกว่าที่คนอื่นคิดไว้อีก"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "คุณจะพบเธอได้ที่ชายหาด เฮลีย์จะพูดเกี่ยวกับสร้อยข้อมือของยายเธอว่ามันหายไป คุณต้องพยายามหามันให้เธอ ซึ่งมันจะตกอยู่ที่ชายหาดทางด้านขวาของกระท่อมแอลเลียต เมื่อคืนสร้อยข้อมือให้เธอ เฮลีย์จะกอดขอบคุณและบอกว่าจะไม่ลืมสิ่งที่คุณทำให้เธอในวันนี้"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "จะพบเธอได้ที่ด้านนอกของร้านขายสัตว์ เธอจะชวนคุณไปถ่ายรูปกับวัวในฟาร์ม"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "เมื่อมาที่บ้านของเธอในวันที่ฝนตก เธอจะชวนคุณเข้าไปในห้องมืด ๆ เพื่อให้ดูห้องสำหรับเก็บรูปภาพของเธอ เฮลีย์จะถามว่าคุณต้องการจะทำอะไร จะมีตัวเลือกให้ระหว่าง “ช่วยเธอตกแต่งห้อง’Help decorate'” , “ออกจากห้อง’Make an excuse and leave'” , “พยายามจูบเธอ’try to kiss her'” ถ้าเลือกอันนี้ เฮลีย์จะบอกว่าเธอรอมานานแล้ว จากนั้นก็จะหันไปปิดไฟแล้วทำอะไรต่อก็คิดกันเอาเองนะ"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

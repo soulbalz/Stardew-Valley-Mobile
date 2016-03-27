@@ -1,0 +1,175 @@
+{
+    "name": "Vincent (วินเซนต์)",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png?resize=150%2C150",
+    "birthday": "วันที่ 10 ฤดูใบไม้ผลิ (Spring 10)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“I wanna be just like my big brother when I grow up!” — Vincent\nVincent อาศัยอยู่ทางใต้ของเมือง Pelican Town คุณมักจะพบ Vincent อยู่กับ Jas บ่อยๆ Vincent ชื่นชมในตัวพี่ชายของเขามากและฝันว่าโตขึ้นจะเป็นเหมือนกับพี่ของเขาให้ได้",
+    "gift": {
+        "best": {
+            "en_msg": "“Wow, thank you so much! This is terrific!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png?resize=48%2C48",
+                    "name": "Pink Cake",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png?resize=48%2C48",
+                    "name": "Cranberry Candy",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png?resize=48%2C48",
+                    "name": "Grape",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“For me? Wow, thanks!”",
+            "th_msg": "",
+            "note": "วินเซนต์ ไม่ชอบกาแฟ",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png?resize=48%2C48",
+                    "name": "Coconut",
+                    "found_in": "Foraging – Desert"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Foraging – Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png?resize=48%2C48",
+                    "name": "Clam",
+                    "found_in": "Foraging – Beach"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thanks!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“This isn’t very fun…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging– Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png?resize=48%2C48",
+                    "name": "Oyster",
+                    "found_in": "Fishing/Foraging– Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png?resize=48%2C48",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png?resize=48%2C48",
+                    "name": "Common Mushroom",
+                    "found_in": "Foraging – Spring/FallThe Cave"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Yuck, what is this?”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Artisan Goods",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/b/b6/Bug_Meat.png?resize=48%2C48",
+                    "name": "Bug Meat",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Fishing, 75g Saloon Vending Machine"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}

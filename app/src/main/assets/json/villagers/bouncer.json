@@ -1,0 +1,40 @@
+{
+    "name": "Bouncer",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f5/Bouncer.png?resize=130%2C130",
+    "birthday": "n/a",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": " “That shady-looking guy in the back? I’m not supposed to talk about it.”\nBouncer เป็นการ์ดหน้าคาสิโน ( Casino ) ตั้งอยู่หลังโอเอซิส ป้องกันทางเข้าจนกว่าจะเสร็จเควส “The Mysterious Qi ”",
+    "gift": {
+        "best": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "good": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "worst": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        }
+    },
+    "heart_events": []
+}

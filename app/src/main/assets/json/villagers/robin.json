@@ -1,0 +1,169 @@
+{
+    "name": "Robin",
+    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png?resize=150%2C150",
+    "birthday": "วันที่ 21 ฤดูใบไม้ร่วง (Fall 21)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": " “พ่อแม่ของฉันรู้สึกสับสนเมื่อฉันบอกพวกเขาว่าฉันอยากเป็นช่างไม้ พวกเขาหัวโบราณน่ะ”\nRobin เป็นชาวบ้านที่อาศัยอยู่ใน Pelican Town โรบินเป็นช่างไม้ของเมืองทุกๆวันจะพบเธอได้ที่ร้านช่างไม้ระหว่างเวลา 9:00 AM ถึง 5:00 PM ร้านของเธอปิดวันอังคารและปิดก่อนเวลาในวันศุกร์",
+    "gift": {
+        "best": {
+            "en_msg": "“This is for me? Wow, I absolutely love it!!”",
+            "th_msg": "“นี่ให้ฉันหรอ? ว้าว,ฉันชอบมันที่จริงๆนะ!!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png?resize=48%2C48",
+                    "name": "Goat Cheese",
+                    "found_in": "Cheese Press"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/e2/Peach.png?resize=48%2C48",
+                    "name": "Peach",
+                    "found_in": "Fruit Trees"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thanks! This is really nice!”",
+            "th_msg": "“ขอบคุณ! นี่มันเยี่ยมจริงๆนะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruit  ผลไม้ทั้งหมด",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/20/Cherry.png?resize=48%2C48",
+                    "name": "Cherry",
+                    "found_in": "Fruit Trees – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging –Winter"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png?resize=48%2C48",
+                    "name": "Blue Jazz",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thank you. This might come in handy.”",
+            "th_msg": "“ขอบคุณนะ นี่อาจจะมีประโยชน์”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png?resize=48%2C48",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Um… why?”",
+            "th_msg": "“อืมมม ทำไมล่ะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“What the…? This is terrible!”",
+            "th_msg": "“อะไรกัน? นี่มันเลวร้ายมากนะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Robin มีหัวใจ 3 ดวง เธอจะส่งสูตรอาหารทำ Pumpkin Soup ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "หลังจากที่ได้หัวใจของ Robin ถึง 6 ดวงไปที่บ้านของเธอแล้วคุณจะพบกับฉากเหตุการณ์ที่เธอจะให้พิมพ์เขียว 2 อันแก่คุณคือขลุ่ยและกลอง"
+        }
+    ]
+}

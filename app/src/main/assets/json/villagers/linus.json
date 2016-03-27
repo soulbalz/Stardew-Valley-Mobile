@@ -1,0 +1,228 @@
+{
+    "name": "Linus",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Linus.png?resize=129%2C129",
+    "birthday": "วันที่ 3 ฤดูหนาว (Winter 3)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": " “You can learn to survive in the wild. I have. I think we all have a hidden urge to return to nature. It’s just a little scary to make the leap.”\nลินัสเป็นชาวบ้านที่อาศัยในเต้นท์เล็กๆทางเหนือของ Pelican Town ใกล่ๆ  The Mines",
+    "gift": {
+        "best": {
+            "en_msg": "“This is wonderful! You’ve really made my day special.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png?resize=48%2C48",
+                    "name": "Blueberry Tart",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/1d/Dish_O_The_Sea.png?resize=48%2C48",
+                    "name": "Dish O’ The Sea",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png?resize=48%2C48",
+                    "name": "Coconut",
+                    "found_in": "Foraging – The Desert"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png?resize=48%2C48",
+                    "name": "Cactus Fruit",
+                    "found_in": "Foraging – The Desert"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/52/Yam.png?resize=48%2C48",
+                    "name": "Yam",
+                    "found_in": "Farming – Fall"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is a great gift. Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png?resize=48%2C48",
+                    "name": "Cheese",
+                    "found_in": "Cheese Press"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Farming – Summer/Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png?resize=48%2C48",
+                    "name": "Beer",
+                    "found_in": "The Saloon/Keg"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png?resize=48%2C48",
+                    "name": "Chanterelle",
+                    "found_in": "Foraging/Secret Woods/The Cave"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png?resize=48%2C48",
+                    "name": "Winter Root",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png?resize=48%2C48",
+                    "name": "Common Mushroom",
+                    "found_in": "Foraging – Spring/Fall/Secret Woods"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“A gift? How nice.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png?resize=48%2C48",
+                    "name": "Tilapia",
+                    "found_in": "Fishing"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Hmm… This doesn’t really do much for me.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Gems",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Why would you give this to me? Do you think I like junk just because I live in a tent? That’s terrible.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png?resize=48%2C48",
+                    "name": "Carp",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Green_Algae.png?resize=48%2C48",
+                    "name": "Green Algae",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": ""
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "Trigger: Enter the town.\nGeorge will ask you to scare of some raccoons who are stealing from his trash cans. Instead, you discover Linus, who is extremely embarrassed, but explains that if he didn’t eat the food, it would go to waste. You then get the option to tell him what you think about his actions. After you leave, he proceeds to try to steal from the Saloon’s trash can, where he is caught by Gus, who gives him a meal saying that he doesn’t want any villager to go hungry.\nNote: This cutscene triggered with 0 hearts on Spring 8, and 10."
+        }
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Linus มีหัวใจ 3 ดวง เขาจะส่งสูตรอาหารทำ Sashimi ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "Trigger:Enter the area near Linus’ tent late at night (where the carpenter is).\nLinus will invite the player over to his camp site. He will apologize for not trusting you when you first met, and thanks you for being a good friend. He invites the player into his tent, where he shows them how to craft Wild Bait for use in fishing."
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "name": "Wizard (พ่อมด)",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png?resize=150%2C150",
+    "birthday": "วันที่ 17 ฤดูหนาว (Winter 17)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“พ่อมดศึกษาเกี่ยวกับโลกวิญญาณที่หอคอยของเขาเองในป่าซินเดอร์แซบ ชำนาญภาษาธาตุต่างๆ.”\nพ่อมด เป็นสมาชิกหมู่บ้านที่อาศัยบนหอคอยพ่อมด (Wizard’s Tower) อยู่ไกลออกไปทางตะวันตกของเมือง Pelican Town โดยเริ่มเกมประตูหอคอยของเขาจะล๊อกอยู่ เขาจะไม่ถูกรวมอยู่ในเควสแนะนำชาวบ้านในตอนแรก",
+    "gift": {
+        "best": {
+            "en_msg": "“Ahh, this is imbued with potent arcane energies. It’s very useful for my studies. Thank you!”",
+            "th_msg": "“อา…นี่ช่างเต็มไปด้วยพลังอำนาจลี้ลับ มันเป็นประโยชน์ต่อการค้นคว้าของฉันมาก ขอบใจ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/c/ca/Rabbit%27s_Foot.png?resize=48%2C48",
+                    "name": "Rabbit’s Foot",
+                    "found_in": "Rabbits"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png?resize=48%2C48",
+                    "name": "Solar Essence",
+                    "found_in": "Monster Loot"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png?resize=48%2C48",
+                    "name": "Void Essence",
+                    "found_in": "Monster Loot"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png?resize=48%2C48",
+                    "name": "Purple Mushroom",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png?resize=48%2C48",
+                    "name": "Super Cucumber",
+                    "found_in": "Fishing"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Ahh, many thanks. This seems to have some interesting properties.”",
+            "th_msg": "“อา…ขอบคุณมาก เหมือนจะคุณสมบัติที่น่าสนใจนะ”",
+            "note": "เหมือนว่าพ่อมดจะชื่นชอบหินอัญมณีเป็นที่สุด",
+            "item": [
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f6/Amaranth.png?resize=48%2C48",
+                    "name": "Amaranth",
+                    "found_in": "Crops – Farming"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Crops – Farming"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png?resize=48%2C48",
+                    "name": "Aquamarine",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/7a/Blue_Jazz_Stage_5.png?resize=56%2C56",
+                    "name": "Blue Jazz",
+                    "found_in": "Crops – Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/aa/Esperite.png?resize=48%2C48",
+                    "name": "Esperite",
+                    "found_in": "Mining – Geodes"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Mining – Geodes"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/05/Jelly.png?resize=48%2C48",
+                    "name": "Jelly",
+                    "found_in": "Preserves Jar"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png?resize=48%2C48",
+                    "name": "Omelet",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/14/Thunder_Egg.png?resize=48%2C48",
+                    "name": "Thunder Egg",
+                    "found_in": "Mining – Geodes"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/69/Wine.png?resize=48%2C48",
+                    "name": "Wine",
+                    "found_in": "Keg – Any fruit"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thank you, this will prove useful, I think.”",
+            "th_msg": "“ของคุณ มันคงจะมีประโยชน์ล่ะนะ ฉันว่างั้น”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png?resize=48%2C48",
+                    "name": "Grape",
+                    "found_in": "Foraging – Summer"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“This?… I suppose I’ll cast it into the flames and see what happens.”",
+            "th_msg": "“อันนี้?…ฉันว่าฉันคงเอาไปใส่ในเปลวเพลิงแล้วดูสิว่าจะเกิดอะไรขึ้น”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs  ไข่ทุกประเภท",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png?resize=48%2C48",
+                    "name": "Chub",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png?resize=48%2C48",
+                    "name": "Salmonberry",
+                    "found_in": "Fruit – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png?resize=48%2C48",
+                    "name": "Common Mushroom",
+                    "found_in": "Foraging"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Ughh… These are utterly mundane. Please refrain from bothering me with this in the future.”",
+            "th_msg": "“ฮึ…ธรรมดาสุดๆ อย่าเอาเจ้านี่มากวนใจฉันอีก”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/1e/Ancient_Drum.png?resize=48%2C48",
+                    "name": "Ancient Drum",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Dwarf_Scroll_III.png?resize=48%2C48",
+                    "name": "Dwarf Scroll III",
+                    "found_in": "Artifacts"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "หลังจากได้หัวใจสี่ดวงแล้ว จะสามารถเข้าไปยังหอคอยพ่อมดได้ ซึ่งจะสามารถเปลี่ยนแปลงรูปร่างหน้าตาจากที่เคยได้สร้างตัวละครไว้ พ่อมดจะยังเริ่มส่งแร่ต่างๆไปทางจดหมายให้ด้วย\nเมื่อใกล้จะได้หัวใจ 4 ดวง ผู้เล่นจะสามารถเข้าไปในห้องในหอคอยของพ่อมด ที่ที่คุณสามารถเปลี่ยนรูปร่างที่เราเลือกออกแบบ พ่อมดจะส่งแร่ธาตุไปให้คุณทางเมล์"
+        }
+    ]
+}

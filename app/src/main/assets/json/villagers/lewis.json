@@ -1,0 +1,170 @@
+{
+    "name": "Lewis",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png?resize=134%2C129",
+    "birthday": "วันที่ 7 ฤดูใบไม้ผลิ (Spring 7)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“ผมเป็นนายกของเมือง Pelican มากว่า 20 ปี! ไม่มีใครมาแข่งขันกับผมเลยตอนมีการเลือกตั้ง ผมชอบคิดว่ามันเป็นเพราะว่าผมทำหน้าที่ของผมได้ดี ผมชอบเป็นนายกมากเลย”\nLewis เป็นนายกของเมือง Pelican กับ Robin เขามาต้อนรับคุณตอนคุณย้ายมาและอธิบายเล้กน้อยเกี่ยวกับชีวิตในฟาร์ม
+ก่อนงานเทศกาล คุณจะได้รับจดหมายในกล่องจดหมายของคุณจาก Lewis ที่จะบอกถึงสถานที่และเวลาที่งานเทศกาลจะถูกจัดขึ้น รวมถึงสิ่งที่ต้องการเพิ่มเติม",
+    "gift": {
+        "best": {
+            "en_msg": "“Wow, this is my favorite! Thank you!”",
+            "th_msg": "“ว้าว นี่มันของโปรดของผมนี่! ขอบคุณมากเลย!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png?resize=48%2C48",
+                    "name": "Glazed Yams",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a8/Autumns_Bounty.png?resize=48%2C48",
+                    "name": "Autumn’s Bounty",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png?resize=48%2C48",
+                    "name": "Hot Pepper",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thanks, this is great!”",
+            "th_msg": "“ขอบคุณ นี่มันดีมากเลย!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png?resize=48%2C48",
+                    "name": "Coconut",
+                    "found_in": "Foraging – Desert"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png?resize=48%2C48",
+                    "name": "Cactus Fruit",
+                    "found_in": "Foraging – Desert"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Farming – Summer/Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/05/Jelly.png?resize=48%2C48",
+                    "name": "Jelly",
+                    "found_in": "Preserves Jar"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“That’s very nice of you. Thanks.”",
+            "th_msg": "“นั่นดีมากเลยนะ ขอบคุณ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png?resize=48%2C48",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png?resize=48%2C48",
+                    "name": "Spice Berry",
+                    "found_in": "Foraging – Summer"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Well, I guess it’s the thought that counts…”",
+            "th_msg": "“อา ฉันว่ามันอยู่ที่ความคิดของคนให้สินะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This makes me sick. What a horrendous gift.”",
+            "th_msg": "“สิ่งนี่ทำให้ผมรู้สึกแย่ เป็นของขวีญที่น่ากลัวมาก”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Lewis มีหัวใจ 3 ดวง เขาจะส่งสูตรอาหารทำ Eggplant Parm ไปให้คุณในกล่องจดหมาย"
+        }]
+}

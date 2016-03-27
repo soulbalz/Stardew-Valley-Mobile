@@ -1,0 +1,280 @@
+{
+    "name": "",
+    "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Sebastian.png?w=128",
+    "birthday": "วันที่ 10 ฤดูหนาว (Winter 10)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": " “เซบาสเตียนเป็นคนขวางโลกผู้ซึ่งรักสันโดษที่อาศัยอยู่ในชั้นใต้ดินของบ้านพ่อแม่ของเขา  เขาเป็นพี่ชายต่างพ่อคนโตของมารุและตัวเขาเองก็รู้สึกว่าทั้งพ่อและแม่ต่างก็รักและให้ความสนใจแต่กับมารุในขณะที่เขาโดนปล่อยให้เป็นหมาหัวเน่าอยู่ในความมืด  เขามีความคิดที่อยากจะเข้าไปอยู่ในโลกแห่งเกม, หนังสือการ์ตูนและนิยายsci-fi และบางครั้งก็ใช้เวลาส่วนมากในการทำงานอดิเรกเหล่านี้ในห้องของเขาคนเดียว  เขาค่อนข้างจะไม่เป็นมิตรกับคนที่เขาไม่รู้จัก หรือจะเป็นชาวสวนคนใหม่ที่สามารถเข้าไปปลูกต้นรักในพื้นที่หัวใจอันว่างเปล่าของเขาได้? ใครจะไปรู้ล่ะ?”\n\nเซบาสเตียนเป็นชาวบ้านที่อาศัยอยู่ใน Pelican Town เขาเป็นหนึ่งในสิบตัวละครที่สามารถขอแต่งงานได้\nเซบาสเตียนอยู่ในบ้านที่ติดกับร้านไม้ของ Robin ที่อยู่ทางเหนือของเมือง",
+    "gift": {
+        "best": {
+            "en_msg": "“I really love this. How did you know?”",
+            "th_msg": "“ฉันล่ะโคตรชอบอันนี้เลย รู้ได้ไงเนี่ย”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/23/Obsidian.png?resize=48%2C48",
+                    "name": "Obsidian",
+                    "found_in": "Minerals"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png?resize=48%2C48",
+                    "name": "Pumpkin Soup",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png?resize=48%2C48",
+                    "name": "Void Egg",
+                    "found_in": "Void Chicken"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thanks, I like this.”",
+            "th_msg": "“ขอบใจ ฉันชอบมันนะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png?resize=48%2C48",
+                    "name": "Pumpkin",
+                    "found_in": "Crops – Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png?resize=48%2C48",
+                    "name": "Tomato",
+                    "found_in": "Crops – Summer"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png?resize=48%2C48",
+                    "name": "Cauliflower",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png?resize=48%2C48",
+                    "name": "Fried Calamari",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/94/Baked_Fish.png?resize=48%2C48",
+                    "name": "Baked Fish",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png?resize=48%2C48",
+                    "name": "Cookie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png?resize=48%2C48",
+                    "name": "Hashbrowns",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png?resize=48%2C48",
+                    "name": "Maki Roll",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png?resize=48%2C48",
+                    "name": "Fire Quartz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Gems"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“…Thanks.”",
+            "th_msg": "“…ขอบใจ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“…?”",
+            "th_msg": "“…?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png?resize=48%2C48",
+                    "name": "Purple Mushroom",
+                    "found_in": "Foraging – Lower Mines"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“…I hate this.”",
+            "th_msg": "“…ฉันเกลียดมัน”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png",
+                    "name": "Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/95/White_Egg.png",
+                    "name": "White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/91/Large_Brown_Egg.png",
+                    "name": "Large Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Large_White_Egg.png?resize=48%2C48",
+                    "name": "Large White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png?resize=48%2C48",
+                    "name": "Fried Egg",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png?resize=48%2C48",
+                    "name": "Omelet",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png?resize=48%2C48",
+                    "name": "Farmer’s Lunch",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png?resize=48%2C48",
+                    "name": "Complete Breakfast",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Wild Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Copper_Ore.png?resize=48%2C48",
+                    "name": "Copper Ore",
+                    "found_in": "Minerals"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png?resize=48%2C48",
+                    "name": "Pale Ale",
+                    "found_in": "Kegs"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png?resize=48%2C48",
+                    "name": "Beer",
+                    "found_in": "Kegs"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "ไปหาเซบาสเตียนที่ห้องของเขา หลังจาก 10AM เพื่อปลดล็อค cut-scene\n\nคุณจะเห็นเซบาสเตียนกำลังทำงานที่คอมพิวเตอร์ หลังจากรอเขาทำงานเสร็จ เขาจะเอ่ยว่าเขานั้นเป็นโปรแกรมเมอร์ และกำลังทำงานให้ลูกค้า และนั้น การแจ้งเตือนจากคอมพิวเตอร์ และเซบาสเตียนอธิบายว่าแซมได้ชวนไปเที่ยว แต่เขาไม่อยากจะออกไป หลังจากนั้นไม่นาน โรบินก็ได้เข้ามา บอกเขาว่า อบิเกลกำลังตามหาเขาอยู่ และจะมาหาที่บ้านทีหลัง เซบาสเตียนจึงถามโรบิ้นกลับไปว่า ไม่ได้บอกเหรอว่าผมทำงานอยู่ โรบิ้นก็บอกว่า บอกไปแล้ว แต่อบิเกลก็ยืนยันว่าจะมาให้ได้ โรบินออกจากห้องไป และเซบาสเตียนโกรธที่ไม่มีใครรับงานเขาจริงๆ เซบาสเตียนจะเริ่มบ่นความในใจว่าจริงๆแล้วเขาเป็นโปรแกรมเมอร์ แต่ทุกคนรอบตัวคิดว่าเขาว่างและเล่นเน็ตไปวันๆ เขาเบื่อมากและเริ่มน้อยใจที่ที่บ้านรักน้องสาวมากกว่า"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "ไปหาเซบาสเตียนที่บ้านของเขาเพื่อปลดล็อค cut-scene\n\nคุณจะเห็นเซบาสเตียนกำลังซ่อมมอเตอไซค์ในโรงรถ เขาจะบอกว่ามันเป็นของเขาเอง และบางครั้ง เขาได้ขับออกไปคนเดียว ในที่ๆไกลจากหมู่บ้าน เขาบอกให้คุณนั่งมอเตอไซค์ไปกับเขาด้วย คุณจะตอบตกลง หรือไม่ตกลง. เซบาสเตียนจะบอกเราว่าจริงๆแล้วเขาฝันว่าอยากจะออกไปจากเมืองนี้ ตอนนี้เขาจึงพยายามเก็บเงิน เพื่อซักวันหนึ่งเขาจะได้ไปยังเมืองใหญ่ ได้ใช้ชีวิตของตนเอง และออกปากชวนเราไปด้วย"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "ไปหาเซบาสเตียนที่ห้องเพื่อปลดล็อค cut-scene\n\nในขณะที่เข้าไปในห้องเซบาสเตียน คุณได้ถูกชวนให้เล่นเกม ‘Solorian Chronicles: The Game’ คุณจะได้เลือกคำตอบในแต่ละสถานการณ์"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "ไปที่ชายหาดในวันที่ฝนตก หลังจาก 12:00PM เพื่อปลดล็อค cut-scene\n\nเซบาสเตียนจะยืนอยู่ที่ริมทะเล และในขณะคุณมาถึง เขาตกใจที่เห็นกำลังตากฝน เซบาสเตียนบอกคุณว่าเขานั้นไม่ชอบอยู่ท่ามกลางผู้คน แต่เขาไม่รู้สึกแบบนั้นเมื่ออยู่กับคุณ หลังจากนั้นเขาก็กางร่มให้คุณ"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "ไปหาที่บ้านของเขาตอนดึก (8PM) เพื่อเริ่มเหตุการณ์\n\nเซบาสเตียนกำลังเตรียมจะขี่มอเตอร์ไซค์คันโปรดของเขาออกไปข้างนอก และชวนให้เราขึ้นไปด้วย เราพาไปที่ที่ห่างไกล ที่ที่เขาชอบมาที่สุด เป็นวิวจากที่สูงที่เห็นเมืองใหญ่อยู่ไกลๆ เมืองที่เขาเคยบอกว่าอยากจะมาอยู่ด้วยตัวเอง แต่สุดท้ายเขาก็จะบอกว่าตอนนี้เขาไม่อยากไปไหนแล้ว จริงๆแล้วอยู่(กับเรา)ที่เมืองเดิมเขาก็มีความสุขดี เขาจะเข้ามากอดและจูบเราใต้แสงจันทร์"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "name": "Jodi",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png?resize=129%2C129",
+    "birthday": "วันที่ 11 ฤดูใบไม้ร่วง (Fall 11)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Jodi คือชาวบ้านที่อาศัยอยู่ใน Pelican Town",
+    "gift": {
+        "best": {
+            "en_msg": "“Oh, you’re such a sweetheart! I really love this!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Vegetable_Stew.png?resize=48%2C48",
+                    "name": "Vegetable Stew",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png?resize=48%2C48",
+                    "name": "Pancakes",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/53/Crispy_Bass.png?resize=48%2C48",
+                    "name": "Crispy Bass",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png?resize=48%2C48",
+                    "name": "Chocolate Cake",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png?resize=48%2C48",
+                    "name": "Rhubarb Pie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png?resize=48%2C48",
+                    "name": "Fried Eel",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0a/Eggplant_Parm.png?resize=48%2C48",
+                    "name": "Eggplant Parmesan",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thank you! This makes my day really special.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“Hmm, well I guess I could always put this in the compost…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png?resize=48%2C48",
+                    "name": "Garlic",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png?resize=48%2C48",
+                    "name": "Snow Yam",
+                    "found_in": "Foraging – Winter"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“*Blech*… I hate this…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png?resize=48%2C48",
+                    "name": "Spice Berry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Jodi มีหัวใจ 3 ดวง เธอจะส่งสูตรอาหารทำ Fried Calamari ไปให้คุณในกล่องจดหมาย"
+        }
+    ]
+}

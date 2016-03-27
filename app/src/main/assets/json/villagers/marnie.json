@@ -1,0 +1,144 @@
+{
+    "name": "Marnie",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png?resize=129%2C129",
+    "birthday": "วันที่ 18 ฤดูใบไม้ร่วง (Fall 18)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Marnie is a villager who lives just to the west of Pelican Town at Marnie’s Ranch. She also runs a shop at Marnie’s Ranch where she sells animals and animal supplies.",
+    "gift": {
+        "best": {
+            "en_msg": "“This is an incredible gift! Thanks!!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png?resize=48%2C48",
+                    "name": "Pink Cake",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/84/Farmers_Lunch.png?resize=48%2C48",
+                    "name": "Farmer’s Lunch",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png?resize=48%2C48",
+                    "name": "Pumpkin Pie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/94/Baked_Fish.png?resize=48%2C48",
+                    "name": "Baked Fish",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Farming – Summer/Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“Oh. I guess I’ll take it.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png?resize=48%2C48",
+                    "name": "Seaweed",
+                    "found_in": "Fishing"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Why would you give this to me? Do you think I like junk just because I live in a tent? That’s terrible.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}

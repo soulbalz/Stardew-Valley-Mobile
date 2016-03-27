@@ -1,0 +1,200 @@
+{
+    "name": "Pam",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/da/Pam.png?resize=129%2C129",
+    "birthday": "วันที่ 18 ฤดูใบไม้ผลิ (Spring 18)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“I was reading the newspaper this morning but then I got depressed. It’s a rotten world, kid. Keep your head screwed on right and you’ll make it through in one piece… That’s what my Pappy always used to say. Heh heh heh.”\nPam is a villager who lives the trailer just west of the river in Pelican Town. She was the driver of the Pelican Town bus before it broke down.\nMost days Pam can be found in her trailer until 12:00 PM. She’ll then walk over to JojaMart for a few hours, leaving there at 4:00 PM to walk to the saloon. Pam is one of Gus‘s most loyal customers, she spends every evening in his establishment.",
+    "gift": {
+        "best": {
+            "en_msg": "“Hey, hey! Now this is really something! Thanks a million, kid.”",
+            "th_msg": "“เฮ้! นี่เป็นของที่เป็นใจจริง! ขอบคุณหลายๆนะหนู.”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png?resize=48%2C48",
+                    "name": "Parsnip Soup",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png?resize=48%2C48",
+                    "name": "Glazed Yams",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png?resize=48%2C48",
+                    "name": "Pale Ale",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png?resize=48%2C48",
+                    "name": "Beer",
+                    "found_in": "The Saloon/Artisan Goods"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png?resize=48%2C48",
+                    "name": "Cactus Fruit",
+                    "found_in": "Foraging"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“You did good with this one, kid. Thanks!”",
+            "th_msg": "“เธอทำดีนะ,ไอหนู ขอบคุณ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png?resize=48%2C48",
+                    "name": "Omelet",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thanks, kid.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png?resize=48%2C48",
+                    "name": "Hazelnut",
+                    "found_in": "Foraging – Fall"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“This just ain’t my thing.”",
+            "th_msg": "“นี่ไม่ใช่ของที่ฉันชอบ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Now this is just absolutely despicable.(Is this some kind of mean joke?)”",
+            "th_msg": "“นี่มันน่ารังเกียจมาก (นี่เป็นการล้อเล่นที่น่าเกลียด?)",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png?resize=48%2C48",
+                    "name": "Octopus",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/81/Squid.png?resize=48%2C48",
+                    "name": "Squid",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming – Summer"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Pam มีหัวใจ 3 ดวง เธอจะส่งสูตรอาหารทำ Cheese Cauliflower และ Stuffing ไปให้คุณในกล่องจดหมาย"
+        }
+    ]
+}

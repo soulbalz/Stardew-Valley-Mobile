@@ -1,0 +1,195 @@
+{
+    "name": "Jas",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/55/Jas.png?resize=129%2C129",
+    "birthday": "วันที่ 4 ฤดูร้อน (Summer 4)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Jas เป็นชาวบ้านที่อาศัยอยู่แถวชานเมือง Pelican Town เธอเป็นเด็กสาวคนหนึ่ง จะสามารถพบเห็นเธอกับ Vincent เพื่อนสนิทของเธออยู่บ่อยๆ\n“You can play with my dolls if you want to. Just make sure to brush their hair when you’re done.” — Jas",
+    "gift": {
+        "best": {
+            "en_msg": "“*gasp*…Wow!! Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png?resize=48%2C48",
+                    "name": "Pink Cake",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png?resize=48%2C48",
+                    "name": "Plum Pudding",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png?resize=48%2C48",
+                    "name": "Fairy Rose",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“I love presents! Thank you!”",
+            "th_msg": "",
+            "note": "แจสไม่ชอบกาแฟ",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png?resize=48%2C48",
+                    "name": "Coconut",
+                    "found_in": "Foraging – Desert"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking/The Saloon"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png?resize=48%2C48",
+                    "name": "Cookie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/12/Miner%27s_Treat.png?resize=48%2C48",
+                    "name": "Miner’s Treat",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png?resize=48%2C48",
+                    "name": "Omelet",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Is this a gift? Oh…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Ew. This is icky.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Artisan Goods",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/05/Jelly.png?resize=48%2C48",
+                    "name": "Jelly",
+                    "found_in": "Preserves Jar"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}

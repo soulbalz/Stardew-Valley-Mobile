@@ -1,0 +1,286 @@
+{
+    "name": "Harvey (ฮาร์วีย์)",
+    "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Harvey.png?w=128",
+    "birthday": "วันที่ 14 ฤดูหนาว (Winter 14)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“Harvey เป็นหมอของเมือง เขาค่อนข้างแก่ไปซักหน่อยสำหรับหนุ่มโสด แต่เขาก็เป็นคนจิตใจดีและได้รับความเคารพในหมู่บ้าน เขาอยู่ในอพาร์ตเม้นเล็กๆชั้นสองของคลินิก แต่มักจะใช้เวลาไปกับการทำงานเสียมากกว่า คุณจะรู้สึกถึงความเศร้าในตัวเขา เพราะเขามีบางสิ่งที่ไม่ได้บอกคุณ..”\nHarvey เป็นชาวบ้านที่อาศัยอยู่ในเมือง Pelicanและเขาเป็นหนึ่งในชาวบ้านที่สามารถแต่งงานได้ด้วย",
+    "gift": {
+        "best": {
+            "en_msg": "“It’s for me? This is my favorite stuff! It’s like you read my mind.”",
+            "th_msg": "“นี่สำหรับฉันงั้นหรอ? นี่มันของโปรดของฉันเลย! มันเหมือนว่าคุณสามารถอ่านใจฉันได้เลย”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png",
+                    "name": "Super Meal",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/0a/Lobster_Bisque.png",
+                    "name": "Lobster Bisque",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/3d/Truffle_Oil.png",
+                    "name": "Truffle Oil",
+                    "found_in": "Oil Maker"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+                    "name": "Wine",
+                    "found_in": "Keg"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png",
+                    "name": "Coffee",
+                    "found_in": "The Saloon"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c7/Pickles.png",
+                    "name": "Pickles",
+                    "found_in": "Artisan Goods"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“That’s such a nice gift. Thank you!”",
+            "th_msg": "“นี่มันของขวัญที่ดีนะ ขอบคุณ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/05/Jelly.png",
+                    "name": "Jelly",
+                    "found_in": "Preserves Jar"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png",
+                    "name": "Strawberry",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png",
+                    "name": "Duck Feather",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/45/Goat_Milk.png",
+                    "name": "Goat Milk",
+                    "found_in": "Goats"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/72/L_Goat_Milk.png",
+                    "name": "L. Goat Milk",
+                    "found_in": "Goats"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+                    "name": "Purple Mushroom",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png",
+                    "name": "Potato",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png",
+                    "name": "Parsnip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
+                    "name": "Grape",
+                    "found_in": "Farming – Summer/Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png",
+                    "name": "Corn",
+                    "found_in": "Farming – Summer/Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+                    "name": "Bok Choy",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/19/Melon.png",
+                    "name": "Melon",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+                    "name": "Wild Plum",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png",
+                    "name": "Beer",
+                    "found_in": "Artisan Goods"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thanks. That’s very kind of you.”",
+            "th_msg": "",
+            "note": "หมายเหตุ ฮาร์วีย์รักขนเป็ด",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Hmm… Are you sure this is healthy?”",
+            "th_msg": "“หืมม… คุณแน่ใจนะว่ามันมีอนามัยน่ะ?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/73/Sap.png",
+                    "name": "Sap",
+                    "found_in": "Foraging – Axe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/aa/Hay.png",
+                    "name": "Hay",
+                    "found_in": "Foraging – Scythe/Bought from Marnie"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Green_Algae.png",
+                    "name": "Green Algae",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f7/White_Algae.png",
+                    "name": "White Algae",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“…I think I’m allergic to this.”",
+            "th_msg": "“…ฉันคิดว่าฉันแพ้สิ่งนี้นะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png",
+                    "name": "Red Mushroom",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+                    "name": "Sugar",
+                    "found_in": "Pierre’s Joja Mart"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png",
+                    "name": "Spice Berry",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png",
+                    "name": "Sea Urchin",
+                    "found_in": "The Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/3d/Rainbow_Shell.png",
+                    "name": "Rainbow Shell",
+                    "found_in": "The Beach"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png",
+                    "name": "Coral",
+                    "found_in": "The Beach"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png",
+                    "name": "Nautilus Shell",
+                    "found_in": "The Beach"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "Trigger: เข้าบ้านอเล็กซ์และปู่ของเขาเพื่อที่จะเดินเข้าไปเช็คการสนทนาส่วนตัวของฮาร์วีย์และจอร์จ\nฮาร์วีย์พยายามที่จะอธิบายให้จอร์จว่าเขาต้องการที่จะทำให้การเปลี่ยนแปลงวิถีชีวิตบางอย่างถ้าเขาต้องการที่จะให้มีสุขภาพดี แต่จอร์จหงุดหงิดกับคำแนะนำของเขาและกล่าวว่าเขารู้ว่าสิ่งที่ดีที่สุดสำหรับร่างกายของตัวเอง ฮาร์วีย์อธิบายว่าเ​​ขาไปโรงเรียนเป็นเวลา 8 ปีเพื่อที่เขาจะช่วยให้ผู้คนในความพยายามของเขาเพื่อจอร์จจะให้ความร่วมมือ แต่แล้วความสนใจของเขาถูกดึงออกไปขณะที่เขาสังเกตเห็นตัวละครของคุณได้เข้าไปในบ้าน ฮาร์วีย์บอกว่าตัวละครของคุณไม่ควรจะอยู่ตรงนั้นเพราะนี่เป็นเรื่องส่วนตัว แต่จอร์จจะหยุดเราก่อนออกจากบ้านโดยขอให้ตัวละครของคุณช่วยแสดงความเห็นที่สองเกี่ยวกับเรื่องนี้ หากผู้เล่นเลือกที่จะบอกจอร์จให้ปฏิบัติตามคำแนะนำของดร. ฮาร์วีย์ฮาร์วีย์จะบอกว่าเขาเป็นเพียงการพยายามที่จะช่วยและจอร์จก็จะตกลงที่จะทำตามคำสั่งแพทย์ หลังจากนั้นฮาร์วีย์จะขอบคุณตัวละครของคุณที่ช่วยเขาและบอกชื่นชมเรา"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "Trigger: ไปที่คลีนิคในตอนเช้า\nHarvey จะบอกเราเกี่ยวกับเรื่องที่เขาเขียนจดหมายไปแจ้งเรื่องที่มาตรวจสุขภาพประจำปีล่าช้า แล้วเขาก็สังเกตว่าอัตราการเต้นของชีพจรมันสูงขึ้น ให้เลือกตอบว่า “I’m a little nervous…” เขาจะวินิจฉัยว่านั่นเป็นเพราะการมาโรงพยาบาลและบอกให้เราผ่อนคลายลง เขาอยู่นี่แล้ว ในตอนสุดท้าย Harvey จะแจ้งว่าตัวละครของเรามีสุขภาพดี และควรจะดูแลให้ดี ไม่ทำงานหนักจนเกินไป"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "Trigger: เข้าไปในร้านของ Pierre\nเราจะเห็นคลาสเรียนเต้นแอโรบิคของเหล่าสาวๆ และคนที่คาดไม่ถึง Harvey นั่นเอง ในช่วงท้ายของคลาสดูเหมือนว่าเขาจะขายใจตาย แล้วก็มุ่งหน้ามาที่ประตูทางออกข้องห้องแต่ก็ดันมาเจอกับเราเข้า Harvey ดูอายมากที่เราไปเห็นในสภาพนี้ และอยากจะให้เก็บความลับนี้ไว้ไม่ให้บอกใคร Harvey อธิบายว่าที่มาเต้นเพราะจะได้สุขภาพดี มันลำบากมากเพราะทั้งอายุที่มากขึ้นและความเครียดจากการดูแลคลีนิคคนเดียว เขาท้อแท้เพราะมันยากที่จะตามให้ทันกลุ่ม บางทีเขาอาจจะไม่เหมาะกับวิธีนี้ก็ได้ เขาจะถามเราว่าจะไม่ไปบอกคนอื่นในเมืองนี้เกี่ยวกับที่เขามาเต้นแอโรบิคได้ไหม และเราต้องตอบว่าเราจะไม่บอกใคร Harvey จะขอบคุณและถือเป็นบุญคุณ"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "Trigger: เข้าไปที่คลีนิค\nเราจะเข้าไปในห้องของ Harvey และพบว่าเขากำลังใช้อุปกรณ์ในการติดต่อกับนักบิน แล้วเขาก็มีปฏิกิริยาในทันที เขาตกใจมากและทำให้ชีพจรของเขาเต้นเร็ว แต่เขาก็พอจะควบคุมมันได้ แล้วเขาก็จะมองเราแล้วบอกถึงวิธีการติดต่อกับนักบินตัวเป็นๆ เขาดูตื่นเต้นมากตอนที่บอกเราให้ไปยืนที่หน้าต่างเพื่อมองนักบินที่บินอยู่ข้างบนกับเขา หลังจากที่เครื่องบินผ่านไป Harvey เล่าว่าเมื่อตอนเด็กๆ เขาใฝ่ฝันอยากจะเป็นนักบินมาตลอดเลย แต่ก็เป็นไปไม่ได้เพราะสายตาของเขาแย่และกลัวความสูงด้วย เขาบอกเราว่าไม่ต้องเสียใจกับเรื่องนี้หรอก เขายอมรับได้แล้วว่าไม่มช่ทุคนบอกโลกนี้หรอกที่จะทำตามความฝันได้สำเร็จ โลกมันก็อย่างนี้แหละ Harvey พยายามทำให้บรรยากาศดีขึ้นด้วยการชวนให้เราดูโมเดลเครื่องบินรุ่น TR-Starbird deluxe ที่เพิ่งต่อเสร็จ"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "Trigger: เราได้รับจดหมายในเช้าวันหนึ่ง เป็นจดหมายจาก Harvey บอกให้ไปเจอเขาที่รางรถไฟให้เร็วที่สุดเท่าที่จะทำได้\nไปพบเขาที่นั่น เขาบอกว่าดีใจมากที่เรามาแล้วก็มีบางอย่างเกิดขึ้น มันเร็วมาก ผู้ชายคนหนึ่งร่อนบอลลูนลงมาใกล้ๆ แล้วบอกว่าบอลลูนนี้เป็นของคุณในเวลาสองชั่วต่อจากนี้ ก่อนที่จะมุ่งหน้าไปที่ saloon ในเมือง Harvey บอกเราว่าเขาเห็นโฆษณาให้เช่าบอลลูนในหนังสือพิมพ์และคิดว่าคงจะดีนะถ้าได้ขึ้นไปด้วยกัน ก่อนที่จะขึ้นไป เราสามารถเลือกได้ว่าขะขึ้นทันทีหรือถามว่าทำไมเขาถึงทำแบบนี้ เพราะเราก็รู้ว่าเขากลัวความสูง ในกรณีที่ถาม
+เขาจะอธิบายว่าความกลัวก็ยังเป็นปัจจัยหลักอยู่ เขาจึงนับถือในความกล้าหาญของเรา และพูดว่ามันมากพอสำหรับคนสองคน พอขึ้นบอลลูน Harvey จะกดสวิตช์เพื่อปล่อยลมร้อนให้มันลอยขึ้นไป แต่ก็ต้องประหลาดใจกับความเร็วในการลอยขึ้น การลอยอยู่บนท้องฟ้าทำให้เขาทั้งกลัวและดีใจผสมกัน และในที่สุด เขารู้สึกและจดจำว่าเราขึ้นมากับเขาด้วย เขารู้สึกพิศวงกับสิ่งที่ได้เห็นมากและดีใจมากที่ได้ทำสิ่งนี้ร่วมกับเรา ก่อนที่สองชั่วโมงนี้จะจบลง เขาและเราก็จูบกัน (มันขึ้นอยู่กับว่าเราได้ให้ช่อดอกไม้เขารึเปล่า) เรานำบอลลูนกลับไปคืนเจ้าของช้าอย่างน้อยครึ่งชั่วโมง"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

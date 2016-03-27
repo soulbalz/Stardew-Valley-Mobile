@@ -1,0 +1,200 @@
+{
+    "name": "Clint",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Clint.png?resize=130%2C130",
+    "birthday": "วันที่ 26 ฤดูหนาว (Winter 26)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Clint is a villager who lives in Pelican Town. He is running the local Blacksmith.",
+    "gift": {
+        "best": {
+            "en_msg": "“Yes! This is exactly what I’ve been looking for!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/77/Artichoke_Dip.png?resize=48%2C48",
+                    "name": "Artichoke Dip",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png?resize=48%2C48",
+                    "name": "Fiddlehead Risotto",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png?resize=48%2C48",
+                    "name": "Emerald",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png?resize=48%2C48",
+                    "name": "Aquamarine",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png?resize=48%2C48",
+                    "name": "Ruby",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png?resize=48%2C48",
+                    "name": "Topaz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png?resize=48%2C48",
+                    "name": "Gold Bar",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png?resize=48%2C48",
+                    "name": "Iridium Bar",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png?resize=48%2C48",
+                    "name": "Omni Geode",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": ""
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is a fun gift. Thanks!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Copper_Bar.png?resize=48%2C48",
+                    "name": "Copper Bar",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/6c/Iron_Bar.png?resize=48%2C48",
+                    "name": "Iron Bar",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thanks.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f7/Gold_Ore.png?resize=48%2C48",
+                    "name": "Gold Ore",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png?resize=48%2C48",
+                    "name": "Clam",
+                    "found_in": "Foraging"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ดอกไม้ทุกชนิด All Flowers",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This makes me depressed.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Copper_Ore.png?resize=48%2C48",
+                    "name": "Copper Ore",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "arming"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Green_Algae.png?resize=48%2C48",
+                    "name": "Green Algae",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Dwarf_Scroll_III.png?resize=48%2C48",
+                    "name": "Dwarf Scroll III",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากหัวใจครบ 3 ดวงแล้ว Clint จะส่งสูตรอาหารทำ Algae Soup ไปให้คุณในกล่องจดหมาย"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "name": "Leah (ลีอา)",
+    "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Leah.png?w=128",
+    "birthday": "วันที่ 23 ฤดูหนาว (Winter 23)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“ลีอาห์อาศัยอยู่คนเดียวในกระท่อมหลังเล็กนอกเมือง เธอชอบใช้เวลาอยู่ข้างนอกบ้านหาเก็บของป่าหรือเพียงแค่เพลิดเพลินไปกับของขวัญในตามแต่ละเทศกาลเท่านั้น เธอเป็นจิตรกรผู้มีพรสวรรค์พร้อมกับมีผลงานสะสมชิ้นใหญ่แต่กระนั้นเธอก็ยังกระวนกระวายใจที่จะโชว์งานพวกนั้นให้คนอื่นๆได้เห็น มันน่าจะดีถ้าคุณสามารถเพิ่มความมั่นใจให้กับเธอได้?”\n\nลีอาห์เป็นชาวบ้านที่อยู่ใน Pelican Town เธอเป็นหนึ่งในสิบตัวละครที่สามารถขอแต่งงานได้\nกระท่อมของเธอตั้งอยู่ทางทิศตะวันตกของเมืองหรือทางใต้ของฟาร์มคุณเอง",
+    "gift": {
+        "best": {
+            "en_msg": "“Oh! This is exactly what I wanted! Thank you!”",
+            "th_msg": "“โอ้! นี่แหละที่ชั้นต้องการ! ขอบใจมากนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/8e/Poppyseed_Muffin.png?resize=48%2C48",
+                    "name": "Poppyseed Muffin",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "Cooking/The Saloon"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Stir_Fry.png?resize=48%2C48",
+                    "name": "Stir Fry",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Vegetable_Stew.png?resize=48%2C48",
+                    "name": "Vegetable Stew",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/69/Wine.png?resize=48%2C48",
+                    "name": "Wine",
+                    "found_in": "Artisan Goods – Keg"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is a really nice gift! Thank you!”",
+            "th_msg": "“นี่เป็นของขวัญที่เยี่ยมจริงๆ! ขอบใจนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ผลไม้ทุกชนิด  All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ผักทุกชนิด  All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "นมทุกชนิด  All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png",
+                    "name": "Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/95/White_Egg.png",
+                    "name": "White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/91/Large_Brown_Egg.png",
+                    "name": "Large Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Large_White_Egg.png?resize=48%2C48",
+                    "name": "Large White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png?resize=48%2C48",
+                    "name": "Bok Choy",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png?resize=48%2C48",
+                    "name": "Common Mushroom",
+                    "found_in": "Foraging – Spring/Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png?resize=48%2C48",
+                    "name": "Holly",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png?resize=48%2C48",
+                    "name": "Morel",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png?resize=48%2C48",
+                    "name": "Pale Ale",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thank you!”",
+            "th_msg": "“ขอบคุณ!”",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“Hmm… I guess everone has different tastes.”",
+            "th_msg": "“ฮืมมม… ฉันว่าทุกคนคงมีรสนิยมที่แตกต่างกันนะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "อัญมณีทั้งหมด  All Gems",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/82/Bream.png?resize=48%2C48",
+                    "name": "Bream",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/3/34/Cave_Carrot.png?resize=48%2C48",
+                    "name": "Cave Carrot",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png?resize=48%2C48",
+                    "name": "Seaweed",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png?resize=48%2C48",
+                    "name": "Smallmouth Bass",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This is a pretty terrible gift, isn’t it?”",
+            "th_msg": "“นี่มันเป็นของขวัญที่แย่มากๆเลย ใช่ไหม?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/e1/Bread.png?resize=48%2C48",
+                    "name": "Bread",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png?resize=48%2C48",
+                    "name": "Void Egg",
+                    "found_in": "Void Chickens"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "เมื่อมีหัวใจถึงสองดวง เมื่อคุณเข้าไปในกระท่อมของ Leah จะตัดเข้าคัทซีนที่เธอเล่าเกี่ยวกับความต้องการของเธอและความกลัวที่มาด้วยกัน คุณสามารถให้กำลังใจเธอได้"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "เมื่อมีหัวใจถึงสี่ดวง เมื่อคุณเข้าไปในกระท่อมของเธอจะตัดเข้าคัทซีนที่เธอกำลังพูดกับแฟนเก่า และคุณมีตัวเลือกที่จะตอบสนองต่อสิ่งนั้น\n\n-No, it had to be done.  ไม่ มันต้องจบได้แล้วนะ\n“You’re right… I just wouldn’t have been happy back there.”  “นายพูดถูก ฉันไม่มีความสุขเลยตอนอยู่ที่นั่น”\n-No, and your ex sounds like an idiot.  ไม่และแฟนเก่าเธอเหมือนคนงี่เง่ามากๆ\n“That’s a little harsh… but, yeah. We had different priorities.”  “มันรุนแรงไปหน่อยนะ… แต่ ใช่ พวกเรามีการจัดลำดับที่แตกต่างกัน”\n-No, but you would’ve been better off staying in the city.  ไม่ แต่น่าจะดีกว่าถ้าเธออยู่ออกห่างจากเมือง\n-Yeah, a little.  ใช่ นิดนึงนะ\n-Yeah, but it’s natural to care about yourself first.  ใช่ แต่มันเป็นเรื่องปกติที่จะแคร์ตัวเองก่อน"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "กลับไปยังฟาร์มของคุณและตัดเข้าคัทซีน Leah จะมาพูดคุยกับคุณแลกให้ของขวัญคุณซึ่งคือรูปปั้นที่เธอทำในบ้านของเธอ"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "เดินไปยังทางใต้ของฟาร์ม หลัง 4:00 pm ไปที่ Cindersap Forest และคุณจะเห็นที่กำลังพยายามจะเอาผลไม้จากต้นไม้ที่อยู่เหนือทะเลสาปของป่า Leah ไม่สามารถหยิบมันถึงได้ ดังนั้นคุณเลยจับเธอไปอยู่บนไหล่ของคุณ เธอขอบใจคุณและคุยเกี่ยวกับการที่เมื่อเธอผิดพลาดคุณจะอยู่ตรงนั้นเพื่อช่วยเธอตลอดทุกครั้ง\nคัทซีนนี้จะไม่เกิดขึ้นในฤดูหนาวและวันที่อากาศไม่ดี มันจะเลื่อนออกไปเป็นวันที่เหมาะสมแทน"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "เดินไปยังทางใต้ของฟาร์มหลัง 11:00am และจะตัดเข้าคัทซีน เธอชวนคุณไปปิกนิกเพื่อขอบคุณสำหรับการสนับสนุนงานแสดงของเธอ จากนั้นคุณจะจูบกัน Kel (แฟนเก่า) จะโผล่มาและเอาทำ Leah รำคาญ คุณมีตัวเลือกที่จะต่อยเขา หรือสั่งสอนเขา แต่ถ้าคุณไม่ต่อย Kel Leah จะทำแทน ถ้าคุณต่อย Kel Leah จะเตือนว่าเธอกังวลเรื่องความรุนแรงของคุณ\nรูปลักษณ์ของ Kel จะเปลี่ยนไปตาม เพศของชาวสวน\nคัทซีนนี้จะไม่เกิดขึ้นในฤดูหนาวและในวันที่อากาศไม่ดี มันจะเลื่อนออกไปเป็นวันที่เหมาะสมแทน"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

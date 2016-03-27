@@ -1,0 +1,164 @@
+{
+    "name": "George",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/George.png?resize=130%2C130",
+    "birthday": "วันที่ 24 ฤดูใบไม้ร่วง (Fall 24)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "George Mullner is a villager who lives in Pelican Town.",
+    "gift": {
+        "best": {
+            "en_msg": "“This is my favorite thing! Thank you.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png?resize=48%2C48",
+                    "name": "Fried Mushroom",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/57/Leek.png?resize=48%2C48",
+                    "name": "Leek",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thanks.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png?resize=48%2C48",
+                    "name": "Coffee",
+                    "found_in": "The Saloon"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "The Saloon/Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“A gift? Hmm…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png",
+                    "name": "Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/95/White_Egg.png",
+                    "name": "White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/91/Large_Brown_Egg.png",
+                    "name": "Large Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Large_White_Egg.png?resize=48%2C48",
+                    "name": "Large White Egg",
+                    "found_in": "White Chickens"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“That’s a terrible gift.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Flowers",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png?resize=48%2C48",
+                    "name": "Sardine",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This is probably the worst gift I’ve ever seen. Thanks a lot.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ George มีหัวใจ 3 ดวง เขาจะส่งสูตรอาหารทำ Fried Eel ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "Entering George’s house when he is home, the player will see him struggling to reach something on a bookshelf. The player will walk to the shelf and retrieve the item for George. He will then thank the player and a few moments of silence will ensue. George then tells the player why he is in a wheelchair."
+        }
+    ]
+}

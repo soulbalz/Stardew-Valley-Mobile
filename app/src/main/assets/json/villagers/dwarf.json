@@ -1,0 +1,200 @@
+{
+    "name": "Dwarf (ดวอฟ)",
+    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png?resize=130%2C130",
+    "birthday": "วันที่ 22 ฤดูร้อน (Summer 22)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": " “Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that. But I wonder where it came from? And where did it all go? I guess some questions will never be answered…”\nDwarf เป็นชาวบ้านที่อาศัยอยู่ในเหมือง ในตอนแรกทางจะถูกปิดโดยหินแตก ๆ ข้างในทางเข้า .หลังจากคุณอัพเกรดที่ขุดเหล็ก หินก็สามารถทำลายได้ เชอรรี่บอมบ์ก็สามารถทำลายได้เช่นกัน\nDwarf จะเริ่มพูดภาษาดวาฟ์ของมัน ซึ่งผู้เล่นจะแปลไม่ออก. เพื่อให้เข้าใจเขา คุณต้องได้เลเวล 4 ภาษาดวาฟ์จากในเหมือง.หลังจากที่คุณบริจาคของให้กับพิพิธภัณฑ์ Gunther จะให้ของขวัญแก่คุณเข้าใจที่ Dwarf พูดได้",
+    "gift": {
+        "best": {
+            "en_msg": "“Hey, I really love this stuff. You can find great things in the mines.”",
+            "th_msg": "เฮ้ ! ฉันรักมันมากเลย . คุณจะสามารถหาของดี ๆ ได้ในเหมืองนะ",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png?resize=48%2C48",
+                    "name": "Emerald",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png?resize=48%2C48",
+                    "name": "Aquamarine",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png?resize=48%2C48",
+                    "name": "Ruby",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png?resize=48%2C48",
+                    "name": "Topaz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png?resize=48%2C48",
+                    "name": "Jade",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png?resize=48%2C48",
+                    "name": "Omni Geode",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png?resize=48%2C48",
+                    "name": "Fire Quartz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b9/Dwarf_Scroll_I.png?resize=48%2C48",
+                    "name": "Dwarf Scroll I",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/ca/Dwarf_Scroll_II.png?resize=48%2C48",
+                    "name": "Dwarf Scroll II",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Dwarf_Scroll_III.png?resize=48%2C48",
+                    "name": "Dwarf Scroll III",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/85/Dwarf_Scroll_IV.png?resize=48%2C48",
+                    "name": "Dwarf Scroll IV",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/8/8b/Dwarvish_Helm.png?resize=48%2C48",
+                    "name": "Dwarvish Helm",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/58/Dwarf_Gadget.png?resize=48%2C48",
+                    "name": "Dwarf Gadget",
+                    "found_in": "Artifacts"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Hmm… Is this what humans like?”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ไข่ทั้งหมด All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "นมทั้งหมด All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ผักทั้งหมด All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Duck Feather",
+                    "found_in": "Animals"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png?resize=48%2C48",
+                    "name": "Wild Plum",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png?resize=48%2C48",
+                    "name": "Strawberry",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“I don’t care what species you are. This is worthless garbage.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Rusty_Cog.png?resize=48%2C48",
+                    "name": "Rusty Cog",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}

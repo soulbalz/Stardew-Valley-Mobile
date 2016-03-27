@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Stardew Valley</string>
+    <string name="app_name_mobile">Stardew Valley Mobile Version</string>
+    <string name="creator">Create By IMPIC.CO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Main Menus -->
+    <string name="nav_home">Home</string>
+    <string name="nav_back">ย้อนกลับ</string>
+    <!-- Other Menus -->
+    <string name="nav_villagers">ชาวบ้าน</string>
+
+    <!-- Villagers Menus -->
+    <string name="villagers_sub_alex">Alex</string>
+    <string name="villagers_sub_elliott">Elliott</string>
+    <string name="villagers_sub_harvey">Harvey</string>
+    <string name="villagers_sub_sam">Sam</string>
+    <string name="villagers_sub_sebastian">Sebastian</string>
+    <string name="villagers_sub_abigail">Abigail</string>
+    <string name="villagers_sub_haley">Haley</string>
+    <string name="villagers_sub_leah">Leah</string>
+    <string name="villagers_sub_maru">Maru</string>
+    <string name="villagers_sub_peny">Penny</string>
+    <string name="villagers_sub_caroline">Caroline</string>
+    <string name="villagers_sub_clint">Clint</string>
+    <string name="villagers_sub_demetrius">Demetrius</string>
+    <string name="villagers_sub_dwarf">Dwarf</string>
+    <string name="villagers_sub_emily">Emily</string>
+    <string name="villagers_sub_evelyn">Evelyn</string>
+    <string name="villagers_sub_george">George</string>
+    <string name="villagers_sub_gus">Gus</string>
+    <string name="villagers_sub_jas">Jas</string>
+    <string name="villagers_sub_jodi">Jodi</string>
+    <string name="villagers_sub_kent">Kent</string>
+    <string name="villagers_sub_krobus">Krobus</string>
+    <string name="villagers_sub_lewis">Lewis</string>
+    <string name="villagers_sub_linus">Linus</string>
+    <string name="villagers_sub_marnie">Marnie</string>
+    <string name="villagers_sub_pam">Pam</string>
+    <string name="villagers_sub_pierre">Pierre</string>
+    <string name="villagers_sub_robin">Robin</string>
+    <string name="villagers_sub_sandy">Sandy</string>
+    <string name="villagers_sub_shane">Shane</string>
+    <string name="villagers_sub_vincent">Vincent</string>
+    <string name="villagers_sub_willy">Willy</string>
+    <string name="villagers_sub_wizzard">Wizard</string>
+    <string name="villagers_sub_bouncer">Bouncer</string>
+    <string name="villagers_sub_gil">Gil</string>
+    <string name="villagers_sub_governor">Governor</string>
+    <string name="villagers_sub_grandpa">Grandpa</string>
+    <string name="villagers_sub_gunther">Gunther</string>
+    <string name="villagers_sub_marlon">Marlon</string>
+    <string name="villagers_sub_morris">Morris</string>
+    <string name="villagers_sub_mrqi">Mr. Qi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

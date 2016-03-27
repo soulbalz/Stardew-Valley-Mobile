@@ -1,0 +1,299 @@
+{
+    "name": "Pierre",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png?resize=150%2C150",
+    "birthday": "วันที่ 26 ฤดูใบไม้ผลิ (Spring 26)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“If you’re looking for seeds, my shop is the place to go. I’ll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!” — Pierre\nPierre คือชาวบ้านที่อาศัยอยู่ใน Pelican Town เขาเป็นเจ้าของร้าน Pierre’s General Store",
+    "gift": {
+        "best": {
+            "en_msg": "“This is my all-time favorite! Thank you!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png?resize=48%2C48",
+                    "name": "Fried Calamari",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“That’s very kind of you. I like this.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png?resize=48%2C48",
+                    "name": "Omelet",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png?resize=48%2C48",
+                    "name": "Maki Roll",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png?resize=48%2C48",
+                    "name": "Eggplant",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c7/Pickles.png?resize=48%2C48",
+                    "name": "Pickles",
+                    "found_in": "Preserves Jar"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/69/Wine.png?resize=48%2C48",
+                    "name": "Wine",
+                    "found_in": "Keg"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png?resize=48%2C48",
+                    "name": "Potato",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png?resize=48%2C48",
+                    "name": "Green Bean",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png?resize=48%2C48",
+                    "name": "Blue Jazz",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png?resize=48%2C48",
+                    "name": "Cauliflower",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“A present? Thanks!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png?resize=48%2C48",
+                    "name": "Clam",
+                    "found_in": "Foraging – The Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png?resize=48%2C48",
+                    "name": "Strawberry",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png?resize=48%2C48",
+                    "name": "Grape",
+                    "found_in": "Foraging – Summer/Farming – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png?resize=48%2C48",
+                    "name": "Coral",
+                    "found_in": "The Beach"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“This isn’t exactly my favorite…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Gems",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png?resize=48%2C48",
+                    "name": "Wild Plum",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Gems"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/1/1b/Field_Snack.png?resize=48%2C48",
+                    "name": "Field Snack",
+                    "found_in": "Crafting"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png?resize=48%2C48",
+                    "name": "Chanterelle",
+                    "found_in": "Foraging – Fall"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Please, never bring this to me again.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7d/Apple.png?resize=48%2C48",
+                    "name": "Apple",
+                    "found_in": "Fruit Trees"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png?resize=48%2C48",
+                    "name": "Octopus",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/81/Squid.png?resize=48%2C48",
+                    "name": "Squid",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/91/Eel.png?resize=48%2C48",
+                    "name": "Eel",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png?resize=48%2C48",
+                    "name": "Super Cucumber",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png?resize=48%2C48",
+                    "name": "Smallmouth Bass",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Crops – Summer, Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png?resize=48%2C48",
+                    "name": "Tortilla",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png?resize=48%2C48",
+                    "name": "Cockle",
+                    "found_in": "Fishing – Crab Pot"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png?resize=48%2C48",
+                    "name": "Snail",
+                    "found_in": "Fishing – Crab Pot"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png?resize=48%2C48",
+                    "name": "Sardine",
+                    "found_in": "Fishing"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Pierre มีหัวใจ 3 ดวง เขาจะส่งสูตรอาหารทำ Blueberry Tart ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "Trigger: Enter Pierre’s Shop\nYou enter Pierre’s bedroom. After looking around, you find Pierre’s ‘secret stash’ behind the bookshelf. Pierre catches you, asks that you tell no one. If you agree to say nothing, he in return agrees not to tell anyone that you were snooping in his bedroom. If you refuse, you will lose 2 hearts with him."
+        }
+    ]
+}

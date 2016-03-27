@@ -1,0 +1,165 @@
+{
+    "name": "Gus",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/52/Gus.png?resize=130%2C130",
+    "birthday": "วันที่ 8 ฤดูร้อน (Summer 8)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Gus is a villager who lives and works at the saloon in Pelican Town. He owns the establishment.",
+    "gift": {
+        "best": {
+            "en_msg": "“You’re giving this… to me? I’m speechless.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png?resize=48%2C48",
+                    "name": "Fish Taco",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png?resize=48%2C48",
+                    "name": "Escargot",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/43/Orange.png?resize=48%2C48",
+                    "name": "Orange",
+                    "found_in": "Fruit Trees"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Oh goodness! Are you sure?”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png?resize=48%2C48",
+                    "name": "Spaghetti",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png?resize=48%2C48",
+                    "name": "Pancakes",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Oh, that’s sweet. Thank you.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png?resize=48%2C48",
+                    "name": "Coral",
+                    "found_in": "Foraging"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“No, no, no…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png?resize=48%2C48",
+                    "name": "",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": ""
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This is absolute junk. I’m offended.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/e1/Coleslaw.png?resize=48%2C48",
+                    "name": "Coleslaw",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming"
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}

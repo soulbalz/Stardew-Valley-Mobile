@@ -1,0 +1,144 @@
+{
+    "name": "Caroline",
+    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png?resize=130%2C130",
+    "birthday": "วันที่ 7 ฤดูหนาว (Winter 7)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Caroline is a villager who lives in Pelican Town.",
+    "gift": {
+        "best": {
+            "en_msg": "“You’re giving this… to me? I’m speechless.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png?resize=48%2C48",
+                    "name": "Fish Taco",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png?resize=48%2C48",
+                    "name": "Summer Spangle",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Oh, goodness! Are you sure?”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png?resize=48%2C48",
+                    "name": "Fairy Rose",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png?resize=48%2C48",
+                    "name": "Emerald",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“No, no, no…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This is absolute junk. I’m offended.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png?resize=48%2C48",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "Farming",
+                    "name": "Poppy",
+                    "found_in": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากหัวใจครบ 3 ดวงแล้ว Caroline จะส่งสูตรอาหารทำ Parsnip Soup ไปให้คุณในกล่องจดหมาย"
+        }
+    ]
+}

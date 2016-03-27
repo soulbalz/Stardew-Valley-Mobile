@@ -1,0 +1,266 @@
+{
+    "name": "Elliott (อีเลียต)",
+    "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Elliott.png?w=128",
+    "birthday": "วันที่ 5 ฤดูใบไม้ร่วง (Fall 5)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“อีเลียตอาศัยอยู่ในกระท่อมริมหาดอยู่คนเดียว เขาเป็นนักเขียนที่ฝีความฝันว่า วันหนึ่งจะเขียนนิยายที่ดีเลิศให้ได้ อีเลียตเป็นคนที่ “โรแมติก” เอามากๆ และชอบชวนพูดคุยเกี่ยวกับดอกไม้และบทกวี เขาชื่นชอบการไปดื่มที่ร้านเหล้ายามที่เขามีเงินพอที่จะจ่ายได้ แล้วชาวไร่สมถะอย่างคุณจะสามารถเป็นแรงบันดาลใจอย่างที่อีเลียตตามหาได้หรือไม่ มีเพียงหนทางเดียวที่จะรู้ได้…”\nอีเลียตเป็นชาวบ้านที่อาศัยอยู่บนชายหาดทางตอนใต้ของเมืองเพลิแคน เป็นหนึ่งในสิบตัวละครที่สามารถแต่งงานได้",
+    "gift": {
+        "best": {
+            "en_msg": "“(Name), this is a beautiful gift! Thank you!”",
+            "th_msg": "“(ชื่อตัวละครของคุณ), นี่เป็ของขวัญที่ยอดเยี่ยมมาก! ขอบคุณนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Crab_Cakes.png",
+                    "name": "Crab Cakes",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png",
+                    "name": "Tom Kha Soup",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png",
+                    "name": "Duck Feather",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png",
+                    "name": "Lobster",
+                    "found_in": "Crab Pot"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is for me? Marvelous!”",
+            "th_msg": "“สำหรับผมเหรอ? ยอดเยี่ยม!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/95/Chowder.png",
+                    "name": "Chowder",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6f/Fish_Stew.png",
+                    "name": "Fish Stew",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png",
+                    "name": "Beer",
+                    "found_in": "The Saloon/Keg"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+                    "name": "Wine",
+                    "found_in": "Keg"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/81/Squid.png",
+                    "name": "Squid",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png",
+                    "name": "Octopus",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png",
+                    "name": "Amethyst",
+                    "found_in": "Minerals – The Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/1/16/Crystal_Fruit.png",
+                    "name": "Crystal Fruit",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/05/Jelly.png",
+                    "name": "Jelly",
+                    "found_in": "Preserves Jar"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png",
+                    "name": "Tulip",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Oh, a present! Thank you!”",
+            "th_msg": "“โอ้ ของขวัญ! ขอบคุณนะ!”",
+            "note": "หมายเหตุ อีเลียตรักขนเป็ด",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+                    "name": "Clam",
+                    "found_in": "Foraging – Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/3d/Rainbow_Shell.png",
+                    "name": "Clam",
+                    "found_in": "Foraging – Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/63/Crab.png",
+                    "name": "Crab",
+                    "found_in": "Crab Pot"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Hmm… I’m not a huge fan of this.”",
+            "th_msg": "“อืม…ฉันไม่ได้หลงไหลสิ่งนี้”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png",
+                    "name": "All Milks",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+                    "name": "Holly",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png",
+                    "name": "Malachite",
+                    "found_in": "Mining – Geode"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+                    "name": "Wild Plum",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Limestone.png",
+                    "name": "Limestone",
+                    "found_in": "Mining – Geode"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This item gives me a terrible feeling. I’ll have to dispose of it.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f6/Amaranth.png",
+                    "name": "Amaranth",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png",
+                    "name": "Sea Cucumber",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "เข้าไปในกระท่อมของอีเลียตหลังเวลา 10 a.m. ตอนที่เขากำลังอยู่ในกระท่อม อีเลียตจะต้อนรับคุณและเริ่มพูดคุยเกี่ยวกับการที่เขามาที่เมืองเพลิแคนเพื่อจะเป็นนักเขียน แต่ไม่มีใครที่บ้านเกิดของเขาเชื่อว่าเขาจะสามารถทำได้ หลังจากนั้นอีเลียตจะถามคุณว่านิยายประเภทไหนที่คุณชื่นชอบ (เลือกระหว่าง นิยายลึกลับ นิยายโรแมนติค และนิยายวิทยาศาสตร์) และยังบอกว่าเขาจะจดจำคำตอบของคุณ จากนั้นเขาก็ถามคุณต่อว่าหากคุณรู้ทุกสิ่งเกี่ยวกับพรรณพืช และหากคุณจะช่วยดูต้นกุหลาบให้เขาได้เพราะเขาคิดว่ามันน่าจะเฉาแล้ว"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "เข้าไปในร้านเหล้าหลัง 5 p.m. ในวันจันทร์ วันพุธ หรือวันอาทิตย์ (อาจจะเป็นไปได้เช่นกันกับวันอื่น) กัสจะบอกว่า อีกสักครู่เขาจะมารับออร์เดอร์ของคุณ ก่อนที่กัสจะไปถึงคุณ อีเลียตก็เดินเข้ามาในอาหารและบอกว่าเป็นเรื่องน่าประหลาดใจมากที่ได้พบคุณ เขาพูดต่อว่า เขาแวะมาเพื่อพักผ่อนหลังจากตั้งตาเขียนหนังสือ แล้วเขาก็สั่งเอลเบียร์ 2 ที่ สำหรับคุณและตัวเขา
+คุณหยุดเขาก่อนที่เขาจะดื่มและประกาศคำอวยพร คุณสาวมารถเลือกคำอวยพรที่แตกต่างกัน 4 อันได้ คือ แด่เมืองเพลิแคน แด่ความเป็นเพื่อนของคุณ แด่สุขภาพของคุณ และแด่ชะตากรรมของคุณ ทั้งสองคนก็ดื่มด้วยกันและอีเลียตก็เริ่มเต้น หลังจากนั้นก็จบจะจบการตัดฉาก และคุณก็ถูกทิ้งไว้ข้างนอกร้านเหล้าอย่างมึนเมา"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "เข้าไปในบ้านของอีเลียตหลังจากเวลา 10 a.m. ขณะที่เขากำลังอยู่ด้านใน โดยจะมีการตัดฉากไปตอนที่อีเลียตกำลังเล่นเปียโน หลังจากเขาเล่นจนจบ คุณสามารถเลือกจะพูดกับเขาได้ว่า “ยอดเยี่ยมไปเลย” หรือ “คุณเล่นเปีโนมานานเท่าไหร่แล้ว” อีเลียตก็จะลุกเขึ้นจากเก้าอี้แล้วเริ่มชวนคุยถึงชีวิตอันยากลำบากของเขาในช่วงเวลานั้น และความหวังที่เขาอยากจะเป็นชาวไร่อย่างคุณ โดยคุณสามารถตอบกลับไปได้ว่า “การทำฟาร์มนั้นไม่ได้ง่ายหรอกนะ คุณรู้ไหม” หรือ “ลองมาร่วมกันทำฟาร์มกับฉันดูไหม” ถ้าคุณเลือกที่จะเชิญชวนอีเลียต เขาจะรู้สึกประหลาดใจมากและขอบคุณสำหรับข้อเสนอของคุณ แต่ว่านิยายของเขาจวนจบเสร็จสมบูรณ์แล้ว เขาจึงไม่สามารถไปได้"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "วันหลังจากที่คุณได้หัวใจครบแปดดวงกับอีเลียต คุณจะได้รับจดหมายหนึ่งฉบับจากเขาว่า ในที่สุดเขาก็เขียนหนังสือจนจบ และเขากำลังอ่านหนังสือที่ห้องสมุดของบ่ายวันนั้น เขาหวังเป็นอย่างยิ่งว่าคุณจะสามารถไปได้ โดยให้ไปที่สำนักงานนักโบราณคดีหลังเวลา 1 p.m. แล้วก็จะมีการตัดฉาก ทุกๆคนในเมืองจะมาที่ห้องสมุดเพื่อฟังอีเลียตอ่านหนังสือเล่มแรกของเขา อีเลียตเดินมาหาคุณและปลาบปลื้มที่คุณมาฟังด้วย จากนั้นเขาก็เริ่มต้นอ่าน ในที่สุด หลังจากที่เขาอ่านหนังสือจนจบ ก็กล่าวขอบคุณทุกคนที่มาเข้าร่วม ต่อมาอีเลียตก็เดินมาที่คุณและถามว่าคุณคิดอย่างไรบ้าง เขาบอกว่าเขารู้สึกดีที่คุณชอบเพราะว่าเขาอุทิศหนังสือเล่มนี้เพื่อคุณโดยยึดตามประเภทหนังสือที่คุณชอบ"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "หลังจากที่คุณได้หัวใจจนครบสิบดวงกับอีเลียต คุณจะได้รับจดหมายจากเขาฉบับหนึ่งว่า เขาคิดที่จะไปทะเลในตอนเช้าของวันที่แดดสดใส (ก่อนเวลา 12 a.m.) และคุณจะไปสมทบกับเขาที่ท่าเรือ อีเลียตแก้เรือพายที่อยู่บนท่าเรือและนึกสงสัยว่าคุณจะอยากอยากลง “เรือเที่ยวแรก” ของเขาบ้างไหม คุณสามารถเลือกได้ว่าจะอยากลงเรือหรือไม่ ถ้าคุณเลือกที่จะลงเรือด้วยนั้น อีเลียตก็จะบอกกับคุณว่านิยายของเขาจะสำเร็จไม่ได้เลยถ้าหากไม่มีคุณ หลังจากนั้นเขาก็พูดอะไรไม่ออกถึงความรู้สึกที่มีต่อคุณ ทันใดนั้น เขาก็จูบคุณ จนตัวคุณเริ่มสั่นเทา คุณสามารถเลือกจะตอบกลับไปว่า “คุณรู้สึกดีใจ” หรือ “คุณกำลังทำให้ฉันไม่สบายใจ หยุดนะ” เมื่อทั้งคู่ก็กลับเข้าฝั่งแล้ว อีเลียตก็กล่าวถึงว่าหมูบ้านนี้ทำให้เข้ารู้สึกเหมือนเป็นบ้านของเขาได้อย่างไร"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

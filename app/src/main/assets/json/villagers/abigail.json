@@ -1,0 +1,269 @@
+{
+    "name": "Abigail (อบิเกล)",
+    "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Abigail.png?w=128",
+    "birthday": "วันที่ 13 ฤดูใบไม้ร่วง (Fall 13)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“Abigail อาศัยอยู่ที่ร้านขายของกับพ่อแม่ของเธอ เธอมักจะทะเลาะกับแม่ของเธอที่กังวลเกียวกับการทำตัวแนวๆไม่เหมือนไคร แม่ของเธอมักพูดว่า ” ฉันอยากจะให้ Abigail แต่งตัวให้มันเหมาะสมมากกว่านี้แล้วก็หยุดย้อมผมสีน้ำเงินของเธอด้วยนะ สีผมธรรมชาติของเธอสวยมากเหมือนกับคุณยายของเธอเลย หวังว่าเธอจะสนใจเรื่องดีดีแทนเรื่องไร้สาระพวกนี้นะ” คุณอาจจะพบ Abigail คนเดียวในสุสานหรึออาจจะออกมาหากบในวันที่ผนตกก็เป็นได้”",
+    "gift": {
+        "best": {
+            "en_msg": "“I seriously love this! You’re the best, (Name)!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Blackberry_Cobbler.png?resize=48%2C48",
+                    "name": "Blackberry Cobbler",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png?resize=48%2C48",
+                    "name": "Chocolate Cake",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png?resize=48%2C48",
+                    "name": "Spicy Eel",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png?resize=48%2C48",
+                    "name": "Pufferfish",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png?resize=48%2C48",
+                    "name": "Pumpkin",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Hey, how’d you know I was hungry? This looks delicious!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png?resize=48%2C48",
+                    "name": "Clam",
+                    "found_in": "Foraging – The Beach"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png?resize=48%2C48",
+                    "name": "Blue Jazz",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png?resize=48%2C48",
+                    "name": "Topaz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png?resize=48%2C48",
+                    "name": "Fire Quartz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png?resize=48%2C48",
+                    "name": "Emerald",
+                    "found_in": "Mining – Minerals"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png?resize=48%2C48",
+                    "name": "Cookie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png?resize=48%2C48",
+                    "name": "Maple Syrup",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“What am I supposed to do with this?”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png?resize=48%2C48",
+                    "name": "Eggplant",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png?resize=48%2C48",
+                    "name": "Sugar",
+                    "found_in": "Pierre’s"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png?resize=48%2C48",
+                    "name": "Wheat Flour",
+                    "found_in": "Pierre’s"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Large_White_Egg.png?resize=48%2C48",
+                    "name": "All Egg",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/38/Slime.png?resize=48%2C48",
+                    "name": "Slime",
+                    "found_in": "Slimes"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "หลังจากที่คุณเข้าร้านPierre’s shopแล้ว จะมีฉากคัดซึนขึ้นมาเป็นฉากที่คุณเข้าไปในห้องของอบิเกล และเห็นว่าเธอกำลังหงุดหงิดเกี่ยวกับวิดีโอเกม\nเธอขอให้คุณช่วยเล่นเกมกับเธอ โดยเกมมีชื่อว่า “Journey of the Prairie King” ซึ่งเกมนี้เล่นเหมือนกับเกมตู้ในร้านของ Gus แต่อบิเกลจะเล่นเป็น 2nd player ค่อยช่วยเรา ขณะที่เราเป็น 1st player\nหลังจากที่คุณชนะแล้ว อบิเกลจะขอบคุณคุณและจบฉากคัดซีน"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "เมื่อคุณเดินมาถึงทะเลสาป (ทางที่จะไปเหมือง) ในวันที่ฝนตก ช่วงเวลาเที่ยง คุณจะเจอกับฉากคัดซีน เป็นฉากที่อบิเกลกำลังเล่นขลุ่ยอยู่\nเธอจะถามว่าเรามาทำอะไรเวลาฝนตกอย่างนี้ และชวนคุณเข้ามาหลบฝนใต้ต้นไม้กับเธอ หลังจากเข้ามาหลบฝนในต้นไม้ คุณจะหยิบพินขึ้นมาเล่นพร้อมกับขลุ่ยของอบิเกล"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "ถ้าคุณเดิมเข้าไปในเมืองยามค่ำ จะเจอฉากคัดซีนของอบิเกลอยู่ที่สุสาน เธอจะบอกคุณว่าเธอกำลังฝึกฝนการใช้ดาบเพื่อที่จะเป็นนักผจญภัย เธอจะถามคุณว่า คุณเคยใช้ดาบบ้างมั้ย หลังจากตอบคำถาม พิแอร์ พ่อของอบิเกลจะเข้ามาขว้างการสนธนาและบอกว่าแคโรไลน์ แม่ของอบิเกล กำลังหาตัวอบิเกลเพื่อให้ไปช่วยทำอาหารเย็นอยู่ อบิเกลโกรธพ่อของเธอเรื่องที่พ่อของเธอคาดหวังว่าการเกิดเป็นลูกสาวต้องช่วยทำงานบ้านอย่างเดียว และเดินหนีออกมา และชวนคุณให้ตามมาด้วย ทั้งอบิเกลและตัวคุณจะเดินออกจากฉากคัดซีน"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "คุณจะได้รับจดหมายจากอบิเกลชวนให้ไปในห้องของเธอเวลา 8pm เพื่อที่จะ “โชว์บางอย่างสุดเจ๋ง” อาจจะต้องใช้เวลาหลายวันหน่อย แต่ท้ายที่สุดแล้ว หลังจากเข้าบ้านของเธอหลัง 8pm จะมีฉากคัดซีนขึ้น ซึ่งเธอจะให้คุณดูกระดานดูดวง ในกระดานดูดวงจะบอกว่าอบิเกลเริ่มที่จะสนใจในตัวคุณ อบิเกลจะหงุดหงิดและวิ่งออกไปจากห้อง ในวันต่อมาอบิเกลมาหาคุณที่บ้านตอนเช้าเพื่อขอโทษ"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "หลังจากหัวใจเต็ม10ดวงแล้ว ให้ช่อดอกไม้กับอบิเกลในเหมืองช่วงเวลาเย็นๆ (5pm) จะเข้าฉากคัดซีน ขณะที่อบิเกลกำลังจะลงบันได้เข้าไปในเหมือง เธอจะเกิดตกใจที่ค้างคาวบินขึ้นมาเข้าหน้าของเธอ เธอหัวเราะหลังจากที่เห็นว่านั้นเป็นแค่ค้างคาว และกลับเข้าไปดูในหลุมนั้น ค้างคาวนับร้อยบินขึ้นมาอีกครั้งทำให้อบิเกลตกใจ ทำให้อบิลเกลวิ่งหนีกลับมาที่ห้องของเธอและร้องไห้ คุณจะรีบวิ่งกลับมาปลอบเธอ ขณะที่คุณกำลังปลอบเธอ อบิเกลจะสารภาพว่าเธอชอบคุณมากกว่าการเป็นแค่เพื่อน และอยากให้คุณอยู่กับเธอ หลังจากนั้นเธอจะจูบกับคุณ แต่หายไปหลังฉากคัดซีน"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

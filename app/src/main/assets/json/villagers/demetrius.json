@@ -1,0 +1,214 @@
+{
+    "name": "Demetrius (ดิมีเทรียส)",
+    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png?resize=130%2C130",
+    "birthday": "วันที่ 19 ฤดูร้อน (Summer 19)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“I’m studying the local plants and animals from my home laboratory. Have you met my daughter Maru? She’s interested to meet you.” — Demetrius\nดิมีเทรียสเป็นชาวบ้านที่อาศัยอยู่ในเมืองเพลิแกน",
+    "gift": {
+        "best": {
+            "en_msg": "“You’re giving this to me? This is amazing!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png?resize=48%2C48",
+                    "name": "Bean Hotpot",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png?resize=48%2C48",
+                    "name": "Rice Pudding",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Cooking/Ice Cream Shop"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png?resize=48%2C48",
+                    "name": "Strawberry",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thank you! This is a very interesting specimen.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ไข่ทั้งหมด All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ผลไม้ทั้งหมด All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Minerals"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png?resize=48%2C48",
+                    "name": "Purple Mushroom",
+                    "found_in": "The Mines/The Cave"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Farming – Summer/Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png?resize=48%2C48",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png?resize=48%2C48",
+                    "name": "Hot Pepper",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/19/Melon.png?resize=48%2C48",
+                    "name": "Melon",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png?resize=48%2C48",
+                    "name": "Coconut",
+                    "found_in": "The Desert"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“That was very thoughtful of you.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "นมทั้งหมด All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png?resize=48%2C48",
+                    "name": "Clam",
+                    "found_in": "Foraging – Beach/Crab Pot"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“…What is this?”",
+            "th_msg": "",
+            "note": "ดิมีเทรียสชอบ Salmonberry",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/7/7c/Alamite.png?resize=48%2C48",
+                    "name": "Alamite",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png?resize=48%2C48",
+                    "name": "Solar Essence",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Battery_Pack.png?resize=48%2C48",
+                    "name": "Battery Pack",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This is disgusting.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากหัวใจครบ 3 ดวงแล้ว Demetrius จะส่งสูตรอาหารทำ Fried Mushroom และ Autumn’s Bounty ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Six Hearts (หัวใจ6ดวง)",
+            "desc": "After entering their house, you’ll see that him and Robin had a bit of a misunderstanding. She had asked him to go get fruit, and he got tomatoes. She exclaims that tomatoes are not what he should have thought when she said fruit, and that he should have picked up a “real” fruit. He defends by saying tomatoes are indeed a fruit and his mistake is reasonable, and he will ask the player to choose what they consider tomatoes."
+        }
+    ]
+}

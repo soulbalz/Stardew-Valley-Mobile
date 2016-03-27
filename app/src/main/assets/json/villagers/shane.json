@@ -1,0 +1,235 @@
+{
+    "name": "Shane",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png?resize=150%2C150",
+    "birthday": "วันที่ 20 ฤดูใบไม้ผลิ (Spring 20)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“I’m renting my room from Marnie at a really good price. It’s small but I can’t complain. If I could reset my life maybe I’d start a chicken farm. Only free-range eggs of course.” — Shane\nเชนเป็นชาวบ้านที่อาศัยใน Pelican Town เขาทำงานที่ JojaMart และเป็นคนที่หยาบคายและไม่มีความสุขอยู่บ่อย ๆ",
+    "gift": {
+        "best": {
+            "en_msg": "“Oh wow, (Name)! How’d you know this is my favorite?”",
+            "th_msg": "“โอ้ ว้าว,(ชื่อผู้เล่น)! นายรู้ว่าสิ่งที่ฉันชอบได้อย่างไรกัน?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png?resize=48%2C48",
+                    "name": "Pepper Poppers",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png?resize=48%2C48",
+                    "name": "Beer",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png?resize=48%2C48",
+                    "name": "Hot Pepper",
+                    "found_in": "Crops"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is great! Thanks!”",
+            "th_msg": "“นี้มันดีมากเลย! ขอบคุณนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruit",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png?resize=48%2C48",
+                    "name": "Blue Jazz",
+                    "found_in": "Farming– Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Juice.png?resize=48%2C48",
+                    "name": "Juice (Any)",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png?resize=48%2C48",
+                    "name": "Pale Ale",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Farming – Summer/Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png?resize=48%2C48",
+                    "name": "Fairy Rose",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png?resize=48%2C48",
+                    "name": "Green Bean",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png?resize=48%2C48",
+                    "name": "Coffee",
+                    "found_in": "The Saloon"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png?resize=48%2C48",
+                    "name": "Cheese",
+                    "found_in": "Cheese Press – Milk"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“You got this for me? Thanks!”",
+            "th_msg": "“นายให้นี้กับฉันเหรอ? ขอบคุณนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“I don’t really like this.”",
+            "th_msg": "“ฉันไม่ชอบสิ่งนี้จริง ๆ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Vegetables",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png?resize=48%2C48",
+                    "name": "Seaweed",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“*sniff* …what is it?”",
+            "th_msg": "“*ดม* … มันคืออะไร?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c7/Pickles.png?resize=48%2C48",
+                    "name": "Pickles",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Trash"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "วิธีเริ่ม : เข้าไปทางใต้ของฟาร์มของเรากลางดึก\nเชนจะให้เบียร์กับตัวละครผู้เล่นบนท่าของหนองน้ำเล็กๆ และอธิบายเกี่ยวกับความหดหู่ของเขา เชนจะอธิบายแง่ดีของอนาคตของผู้เล่นและเตือนผู้เล่นเกี่ยวกับการดื่มหนักไป ผู้เล่นจะติดสถานะมึนเมาเมื่อจบเหตุการณ์"
+        },
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Shane มีหัวใจ 3 ดวง เขาจะส่งสูตรอาหารทำ Strange Bun และ Pepper Poppers ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "หลังจากทำให้ Shane มีหัวใจ 4 ดวง เขาจะส่งสูตรอาหารทำ Pizza และ Pepper Poppers ไปให้คุณในกล่องจดหมาย\nHe will also change his attitude towards you in a more friendly manner whenever you talk to him."
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "Trigger: Enter the town at 10am or later\nYou will find Shane filming a scene starring Emily and Clint. Shane will explain to you that Joja is holding a contest and the winner gets 10,000g. He will ask you to walk behind Clint and Emily as they act so the scene feels more natural. When it’s over, he will thank you for helping him."
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": ""
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": ""
+        }
+    ]
+}

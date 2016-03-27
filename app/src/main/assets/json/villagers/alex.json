@@ -1,0 +1,200 @@
+{
+    "name": "Alex (อเล็ก)",
+    "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Alex.png?w=128",
+    "birthday": "วันที่ 13 ฤดูร้อน (Summer 13)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“อเล็กซ์ชอบเล่นกีฬาและออกไปเที่ยวเล่นที่ชายหาด เขาค่อนข้างจะทะนงตัวและพูดอวดตัวเองอยู่เสมอว่าเขากำลังจะขึ้นไปเป็นนักกีฬามืออาชีพ หรือความขี้โอ่นี้จะเป็นแค่หน้ากากที่เค้าใช้ปกปิดความไม่มั่นใจในตัวเอง? หรือเขากำลังใช้ความฝันเรื่องกีฬานี้เติมเต็มที่ว่างเปล่าในใจเรื่องที่ตอนเด็กๆพ่อแม่ได้ทิ้งเขาไป? หรือว่าเค้าแค่เป็นเด็กทะลึ่งคนหนึ่งที่พยายามทำให้ตัวเองดูเจ๋งในสายตาคนอื่น”\nอเล็กซ์เป็นชาวบ้านคนหนึ่งที่อาศัยอยู่ใน Pelican Town เขาเป็นหนึ่งในสิบตัวละครที่สามารถขอแต่งงานได้\nเขาอาศัยอยู่ในบ้านที่อยู่ทางตะวันออกเฉียงใต้ของร้าน Pierre‘s General Store.",
+    "gift": {
+        "best": {
+            "en_msg": "“Hey, awesome! I love this stuff!”",
+            "th_msg": "“เฮ้! เจ๋งดีนะ ฉันชอบนี่มากๆเลย”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png",
+                    "name": "Complete Breakfast",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+                    "name": "Salmon Dinner",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is cool! Thanks.”",
+            "th_msg": "“นี่มันแจ่มมาก! ขอบคุณนะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png",
+                    "name": "Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/95/White_Egg.png",
+                    "name": "White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/91/Large_Brown_Egg.png",
+                    "name": "Large Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Large_White_Egg.png?resize=48%2C48",
+                    "name": "Large White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png",
+                    "name": "Spaghetti",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+                    "name": "Kale",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png",
+                    "name": "Salad",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "“ขอบคุณนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png",
+                    "name": "Coral",
+                    "found_in": "Foraging"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "",
+            "th_msg": "“เออ… โอเค ขอบคุณ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png",
+                    "name": "Void Egg",
+                    "found_in": "Void Chickens"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "",
+            "th_msg": "“เอาจริงดิ? นี่มันขยะชัดๆ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+                    "name": "Quartz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png",
+                    "name": "Poppy",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/df/Dried_Starfish.png",
+                    "name": "Dried Starfish",
+                    "found_in": "Beach"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "ในฤดูร้อน หลังเวลา 12 pm ให้เดินไปที่ชายหาด อเล็กซ์จะอยู่ที่นั้นพร้อมกับลูกอเมริกันฟุตบอลของเขา เขาจะพูดคุยกับคุณถึงโอกาสที่เขาจะได้เป็นยอดนักกีฬาในอนาคต เขาจะถามคุณเกี่ยวกับอนาคตว่าเขาจะมีโอกาสได้เป็นยอดนักกีฬาหรือไม่? ฉากจะจบลงเมื่อ อเล็กซ์ โยนลูกอเมริกันฟุตบอลให้คุณรับ"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "หลังเวลา 2 pm ให้เดินไปที่ลานกลางเมือง อเล็กซ์จะยืนอยู่ข้างบ้านหมาใกล้ๆกับบ้านของเขา เขาจะคุยกับหมา ตัวละครของคุณจะเดินออกมาทางหลังร้านอาหาร อเล็กซ์จะหันมาคุยกับคุณ เขาจะถามว่าคุณได้ยินอะไรก่อนหน้านี้หรือเปล่า คุณมาสามารถเลือกตอบว่า Yes ได้ยิน หรือ no ไม่ได้ยิน (โกหกว่าไม่ได้ยิน)  ถ้าตอบใช่ อเล็กซ์จะเล่าเรื่องกี่ยวกับหมาให้คุณฟัง ฉากจะจบลงเมื่อ อเล๊กซ์เลี้ยงหมาด้วยเนื้อ"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "เหตุการณ์นี้จะเกิดขึ้นที่บ้านของอเล๊กซ์  คุณจะเข้าไปพบว่าอเล็กซ์ยืนจ้องมองอยู่ที่ตู้หนังสือ คร่ำครวญเกี่ยวกับชีวิตที่เค้าไม่เคยแตะหนังสือในชั้นเลยสักเล่มเดียว กังวลว่าจะไม่มีงานทำเพราะไม่มีความรู้เลยสักนิดเดียวและเขารู้สึกไร้ค่า คุณสามารถพูดกับเขาได้ ว่า “That’s crazy. You’re a genius!” (บ้าไปแล้ว! นายมันฉลาดจะตายไป) “We all have our strengths and weaknesses” (พวกเราต่างก็มี จุดแข็ง และ จุดอ่อนด้วยกันทั้งนั้น) “Worthless? Yeah, that about sums it up.” (ไร้ค่าเหรอ? ใช่! มันก้อยู่ที่ตัวนายทำนั้นแหละ) หลังจากนั้นอเล็กซ์ตัดสินใจที่จะฝึกฝนอย่างหนักเพื่อที่จะประสบความสำเร็จได้ คุณกับเค้าก็จะทานมื้อค่ำด้วยกันเพื่อปรึกษาหารือกัน"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "ไปที่ร้านของ Pierre’s เพื่อนซื้อ bouquet (ช่อดอกไม้) และมอบให้อเล็กซ์ เขาจะตอบรับว่าเขาก็รู้สึกเหมือนคุณเช่นด้วยกัน"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "อเล็กซ์ชวนคุณไปออกเดทนัดทานอาหารค่ำ ในวันที่เดท เขาจะรู้สึกสับสนที่คิดกับคุณเกินกว่าเพื่อน คุณมีโอกาสถามเขาว่าชอบเหมือนกันหรือเปล่าหรือคุณสามารถปฏิเสธเขาได้"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

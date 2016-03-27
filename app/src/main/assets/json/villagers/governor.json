@@ -1,0 +1,40 @@
+{
+    "name": "Governor",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/46/Governor.png?resize=130%2C130",
+    "birthday": "n/a",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": " “นี่มันเป็นโอกาสที่ดี.. . มันมักจะมีความร่าเริงมาสู่ Stardew Valley เสมอ”\nผู้ว่าราชการจังหวัดเป็นผู้ปกครองของภูมิภาคที่ Pelican Town.เขาเข้าร่วมงาน Luau ทุก ๆ ปี และได้ชิมอาหารพื้นเมือง\nนอกงานผู้ว่าการไม่ได้ไปไหนรอบ ๆ เมือง Pelican เลย",
+    "gift": {
+        "best": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "good": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "worst": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        }
+    },
+    "heart_events": []
+}

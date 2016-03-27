@@ -1,0 +1,284 @@
+{
+    "name": "Emily (เอมิลี่)",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/28/Emily.png?resize=130%2C130",
+    "birthday": "วันที่ 27 ฤดูใบไม้ผลิ (Spring 27)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“I’m just working at Gus’ to make ends meet… but my real passion is tailoring. I made these clothes from scratch.” — Emily\nเอมิลี่เป็นชาวบ้านที่อาศัยอยู่ในเมืองเพลิแกน บ้านของเธออยู่ทางใต้ของจตุรัสกลางเมือง ทางขวาของบ้านจูดี้ ที่อยู่ 2 Willow Lane เธอทำงานตอนบ่ายเป็นส่วนมากทีร้านซาลูน เริ่มทำงานตอนบ่าย 4 โมง\nเอมิลี่รักที่จะทำเสื้อผ้าให้กับตัวเอง แต่ผ้าเป็นเรื่องยากที่จะนำเข้ามาในเมือง ในบรรดาของขวัญที่เธอชอบจึงจะเป็นผ้าและผ้าขนสัตว์\nRelationships\nEmily อาศัยอยู่กับน้องสาวของเธอ Haley ทั้งสองดูแลบ้านเพียงลำพัง เพราะพ่อแม่ของพวกเขาได้เดินทางท่องเที่ยวรอบโลกตั้งแต่เมื่อ 2 ปีก่อน Emilyทำงานพาร์ทไทม์กับ Gus ที่ saloon และ Emily ก็ยังเป็นเพื่อนกับ Sandy เช่นกัน",
+    "gift": {
+        "best": {
+            "en_msg": "“This gift is fabulous! Thank you so much!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/87/Survival_Burger.png?resize=48%2C48",
+                    "name": "Survival Burger",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png?resize=48%2C48",
+                    "name": "Emerald",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png?resize=48%2C48",
+                    "name": "Aquamarine",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png?resize=48%2C48",
+                    "name": "Ruby",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png?resize=48%2C48",
+                    "name": "Topaz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png?resize=48%2C48",
+                    "name": "Jade",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png?resize=48%2C48",
+                    "name": "Cloth",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/3/34/Wool.png?resize=48%2C48",
+                    "name": "Wool",
+                    "found_in": "Sheep/Rabbit"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thank you! I’m feeling a positive energy from this gift”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png?resize=48%2C48",
+                    "name": "Salad",
+                    "found_in": "The SaloonCooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png?resize=48%2C48",
+                    "name": "Autumn’s Bounty",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png?resize=48%2C48",
+                    "name": "Bean Hotpot",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/45/Red_Plate.png?resize=48%2C48",
+                    "name": "Red Plate",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png?resize=48%2C48",
+                    "name": "Fire Quartz",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Mayonnaise Machine"
+                },
+                {
+                    "image": "",
+                    "name": "",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thanks!”",
+            "th_msg": "“ขอบคุณ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/dd/Cranberry.png?resize=48%2C48",
+                    "name": "Cranberry",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png?resize=48%2C48",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/57/Leek.png?resize=48%2C48",
+                    "name": "Leek",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Sorry, (Name). I don’t like this.”",
+            "th_msg": "ขอโทษ (ชื่อ) ฉันไม่ชอบสิ่งนี้",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/3/34/Cave_Carrot.png?resize=48%2C48",
+                    "name": "Cave Carrot",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png?resize=48%2C48",
+                    "name": "Fried Eel",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/ce/Pine_Tar.png?resize=48%2C48",
+                    "name": "Pine Tar",
+                    "found_in": "Tapper"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png?resize=48%2C48",
+                    "name": "Rice Pudding",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png?resize=48%2C48",
+                    "name": "Spicy Eel",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“This gift has a strong negative energy. I can’t stand it.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png?resize=48%2C48",
+                    "name": "Salmon Dinner",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png?resize=48%2C48",
+                    "name": "Fish Taco",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png?resize=48%2C48",
+                    "name": "Maki Roll",
+                    "found_in": "Cooking"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Three Hearts (หัวใจ3ดวง)",
+            "desc": "หลังจากทำให้ Emily มีหัวใจ 3 ดวง เธอจะส่งสูตรอาหารทำ Salad และ Red Plate ไปให้คุณในกล่องจดหมาย"
+        },
+        {
+            "name": "Four Hearts (หัวใจ4ดวง)",
+            "desc": "หลังจากทำให้ Emily มีหัวใจ 4 ดวง เมื่อเราเดินเข้าบ้านเธอ จะเข้า cutscene ที่เธอเปิดวิทยุและเต้นรำ"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "name": "Krobus",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png?resize=129%2C129",
+    "birthday": "วันที่ 1 ฤดูหนาว (Winter 1)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "“… คุณพบคนอื่นๆ ที่คล้ายๆฉัน ในเหมืองงั้นหรอ? ฉันขอโทษถ้าพวกเขาไม่เป็นมิตรต่อคุณ คุณเห็นพวกเรา … พวกเราได้เลือกที่จะที่จะกลัวมนุษย์ … พวกเราได้เจออะไรมามากมาย … เป็นการเผชิญหน้าที่ไม่พวกเราไม่ต้องการ . ” — Krobus\nKrobus เป็นมอนเตอร์ที่เป็นมิตรต่อผู้เล่น เขาคือ shadow brute ที่อาศัยอยู่ในท่อระบายน้ำ(the sewers) เขาอาศัยอยู่ที่นั่น เพราะเขาเป็นคนที่ไม่สามารถอยู่กลางแดดได้ เขาจึงไม่สามารถออกไปข้างนอกได้ในเวลากลางวัน\nเขาขาย เขาขายสินค้ามากมาย แถมยังเป็นสินค้าที่หายากด้วยในบางชิ้น",
+    "gift": {
+        "best": {
+            "en_msg": "“This is an amazing gift. For my people it is a great honor to receive something like this.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png?resize=48%2C48",
+                    "name": "Iridium Bar",
+                    "found_in": "Furnace"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png?resize=48%2C48",
+                    "name": "Wild Horseradish",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png?resize=48%2C48",
+                    "name": "Pumpkin",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png?resize=48%2C48",
+                    "name": "Void Egg",
+                    "found_in": "Void Chickens"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thank you very much.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png?resize=48%2C48",
+                    "name": "Gold Bar",
+                    "found_in": "Furnace"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Mining"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thank you.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/92/Milk.png?resize=48%2C48",
+                    "name": "All Milk",
+                    "found_in": "Cow/Goat"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png?resize=48%2C48",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Oh. I guess I’ll take it.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Cooking",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Humans have… interesting tastes.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png?resize=48%2C48",
+                    "name": "Maki Roll",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "krobus และคนแคระทั้งคู่อยู่ในท่อระบายน้ำ The Sewers และต่อสู้กันตามประวัติการต่อสู้ของพวกเขา ผู้เล่นเข้าท่อระบายน้ำ และอยู้ระหว่างการต่อสู้ของพวกเขา หลังจากนั้นพ่อมดจะปรากฏตัวขึ้นและหยุดการต่อสู้ เขาทำให้ทั้งคู่ยอมหยุดการต่อสู้ และร่ายคาถาผนึกข้อตกลง"
+        }
+    ]
+}

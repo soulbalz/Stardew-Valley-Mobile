@@ -1,0 +1,325 @@
+{
+    "name": "Maru",
+    "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Maru.png?w=128",
+    "birthday": "วันที่ 10 ฤดูร้อน (Summer 10)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“เธอเติบโตมากับผู้ปกครองที่เป็นช่างไม้และนักวิทยาศาสตร์, มารุหลงใหลในการสร้างแกดเจ็ตเมื่อเธอยังเด็ก เมื่อใดที่เธอไม่ได้อยู่ในห้องของเธอ, เธอจะเล่นดนตรีด้วยเครื่องมือและเครื่องจักร, บางครั้งเธอก็ไปทำงานแปลกๆที่คลินิกท้องถิ่น เธอเป็นกันเอง, ชอบออกสังคม และมีความทะเยอทะยาน, มารุรู้สึกค่อนข้างดีที่ผู้มาใหม่ซึ่งต่ำต้อยเช่นตัวเอง… คุณสามารถชนะใจเธอได้มั้ย, หรือเธอจะลื่นผ่านมือของคุณและหายไปจากชีวิตของคุณตลอดไป?”ฤดูใบไม้ผลิฤดูใบไม้ผลิ\n\n“มารุเป็นชาวบ้านที่อาศัยอยู่ในเมืองเพลิแกน เธอเป็นหนึ่งในสิบตัวละครที่สามารถแต่งงานได้\nเธออาศัยอยู่กับครอบครัวของเธอที่ทางทิศเหนือของเมือง อยู่ติดกับร้านช่างไม้ของโรบิน”",
+    "gift": {
+        "best": {
+            "en_msg": "“Is that…? Oh wow, (Name)! This is spectacular!”",
+            "th_msg": "“นี่มัน…? โอ้ ว้าว,(ชื่อของขวัญ)! นี่มันน่าประทับใจจริงๆ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png?resize=48%2C48",
+                    "name": "Cheese CauliflowerCooking",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png?resize=48%2C48",
+                    "name": "Pepper Poppers",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png?resize=48%2C48",
+                    "name": "Rhubarb Pie",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/9/9a/Miners_Treat.png?resize=48%2C48",
+                    "name": "Miner’s Treat",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mineral – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png?resize=48%2C48",
+                    "name": "Gold Bar",
+                    "found_in": "Minerals – Furnace"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png?resize=48%2C48",
+                    "name": "Iridium Bar",
+                    "found_in": "Minerals – Furnace"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Battery_Pack.png?resize=48%2C48",
+                    "name": "Battery Pack",
+                    "found_in": "Lightning Rod"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png?resize=48%2C48",
+                    "name": "Cauliflower",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png?resize=48%2C48",
+                    "name": "Strawberry",
+                    "found_in": "Farming – Spring"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“This is a super gift! Thank you!”",
+            "th_msg": "“ของขวัญชิ้นนี้สุดยอดจริงๆ! ขอบใจนะ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Artisan Goods  งานฝีมือทั้งหมด",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "The Saloon/Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Minerals – The Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png?resize=48%2C48",
+                    "name": "Frozen Tear",
+                    "found_in": "Minerals – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Minerals – The Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Minerals – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png?resize=48%2C48",
+                    "name": "Jade",
+                    "found_in": "Minerals – The Mines"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f1/Copper_Bar.png?resize=48%2C48",
+                    "name": "Copper Bar",
+                    "found_in": "Minerals – Furnace"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/6c/Iron_Bar.png?resize=48%2C48",
+                    "name": "Iron Bar",
+                    "found_in": "Minerals – Furnace"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png?resize=48%2C48",
+                    "name": "Crocus",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/52/Yam.png?resize=48%2C48",
+                    "name": "Yam",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png?resize=48%2C48",
+                    "name": "Eggplant",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f6/Amaranth.png?resize=48%2C48",
+                    "name": "Amaranth",
+                    "found_in": "Farming – Fall"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png?resize=48%2C48",
+                    "name": "Parsnip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png?resize=48%2C48",
+                    "name": "Pancakes",
+                    "found_in": "Cooking/The Saloon"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“Thanks.”",
+            "th_msg": "“ขอบคุณ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Neutral",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png?resize=48%2C48",
+                    "name": "Holly",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png?resize=48%2C48",
+                    "name": "Duck Feather",
+                    "found_in": "Animals"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png?resize=48%2C48",
+                    "name": "Duck Egg",
+                    "found_in": "Ducks"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png?resize=48%2C48",
+                    "name": "Blueberry",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png?resize=48%2C48",
+                    "name": "Coral",
+                    "found_in": "Foraging – Beach"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Oh… That’s for me? I’ll just put it over here…”",
+            "th_msg": "“โอ้… นั่นสำหรับชั้นเหรอ? ชั้นจะวางมันไว้ตรงนี้นะ…”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fish  ปลาทุกชนิด",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png?resize=48%2C48",
+                    "name": "Salmonberry",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/8/81/Soapstone.png?resize=48%2C48",
+                    "name": "Soapstone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png?resize=48%2C48",
+                    "name": "Blackberry",
+                    "found_in": "Foraging – Fall"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png?resize=48%2C48",
+                    "name": "Maple Syrup",
+                    "found_in": "Tapper"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png?resize=48%2C48",
+                    "name": "Common Mushroom",
+                    "found_in": "Foraging – Spring The Cave"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Yuck! You thought I would like this?”",
+            "th_msg": "“อี๋! นายคิดว่าชั้นจะชอบไอนี่อย่างงั้นเหรอ ?”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Wild Honey",
+                    "found_in": "Bee House"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming – Summer"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/07/Prehistoric_Handaxe.png?resize=48%2C48",
+                    "name": "Prehistorc Handaxe",
+                    "found_in": "Artifacts"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png?resize=48%2C48",
+                    "name": "Snow Yam",
+                    "found_in": "Snow Yam – Winter"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/58/Dwarf_Gadget.png?resize=48%2C48",
+                    "name": "Dwarf Gadget",
+                    "found_in": "Artifacts"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "เมื่อคุณเข้าไปในบ้านของพวกเขา คุณจะพบ Maru และ Demetrius ในแลปของพวกเขา ทั้งสองกำลังทดสอบตัวอย่างของดินอยู่ Maru ขอให้คุณดูบีกเกอร์ขณะที่เธอกำลังจะทำบางอย่าง ขณะที่คุณกำลังมองดูบีกเกอร์ Demetrius เริ่มคุยกับคุณเกี่ยวกับลูกที่แสนวิเศษของเขา Maru Demetrius บอกว่าเขาไม่ต้องการให้มีอะไรขัดขวางอนาคตของ Maru “ถ้านายรู้ว่าชั้นหมายถึงอะไรน่ะนะ” เมื่อ Maru กลับมา Demetrius บอก Maru ว่าเขากำลังคุยกับคุณเกี่ยวกับการทดลอง\n\n“Right, (character name)?”    “ใช่ไหม, (ชื่อของตัวละคร)?”\n\n1 – Say nothing   ไม่พูดอะไรเลย\n\nทั้ง Demetrius และ Maru จะกลับไปทำงานของพวกเขา\n\n2 – Actually, your dad was being weird    จริงๆแล้ว, พ่อของเธอนี่ทำตัวแปลกๆนะ\n\nMaru จะถาม Demetrius ว่า (ชื่อของตัวละคร) กำลังพูดเรื่องอะไร Demetrius จะบอกความจริงและขอโทษสำหรับการกระทำของเขา"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "เรื่องจะเกิดขึ้นเมื่อคุณกำลังเข้าไปในคลินิคในวันอังคารหรือพฤหัสระหว่างที่มารุกำลังทำงานอยู่ที่นั่น เธอตกใจทีคุณเข้ามาจึงทำแก้วบีกเกอร์ที่ถืออยู่ตกพื้น มารุกังวลกับปฏิกิริยาของฮาร์วี่ต่อจากนี้ เธอจะถามคุณว่าเธอควรทำอย่างไร จะมีให้เลือกสามอย่างให้คุณเลือกอยู่ด้านล่าง\n\n1 – Clear it up quickly, Harvey won’t notice.   รีบๆ ทำความสะอาดสิ ฮาร์วี่ไม่ทันได้สังเกตหรอก\n\n2 – Tell Harvey that it was [player’s] fault.   บอกกับฮาร์วี่ว่าเรื่องนี้เป็นความผิดของ (ผู้เล่น) เอง\n\n3 – Tell Harvey the truth.   บอกความจริงกับฮาร์วี่\n\nเมื่อมารุบอกความจริงกับฮาร์วี่ เขายกโทษให้เธออย่างง่ายดายและชมเธอว่าเธอเป็นผู้ช่วยที่ดีที่คลินิคนี้ มารุมีความสุขที่เธอเป็นคนซื่อสัตย์ แต่ตัวคาแรกเตอร์ของเราจะมีหยดน้ำตาขึ้นบนหัวเมื่อจบอีเว้นท์นี้ (มาจากความเศร้าหรือความโล่งใจ)\n\nเมื่อมารุโทษว่าเหตุการณ์ที่เกิดขึ้นเป็นเพราะคุณ ฮาร์วี่จะดุเธอว่าเธอไม่ควรโยนความผิดของเธอให้กับคนอื่น ทำให้มารุรู้สึกลนลานและเสียใจ"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "ตัดเข้าคัทซีนโดยการเข้าไปในแผนที่ที่บ้านของเธอตั้งอยู่ในตอนเย็น(ประมาณหลัง 8pm ในวันอาทิตย์) ซีนนี้จะพาคุณเข้าไปในภูเขาที่ที่ Maru กำลังส่องกล้องดูดาว เธอจะให้คุณลองดูและถามกับคุณว่า “นายเห็นอะไร ?”\n\n1 – A beautiful planet.  ดวงดาวที่สวยงาม\n\nMaru เห็นด้วยกับคุณและแสดงความคิดเห็นเกี่ยวกับเรื่องที่ว่ารู้สึกอย่างไรที่เป็นมนุษย์ตัวน้อยในจักรวาลอันกว้างใหญ่ เธอเริ่มที่จะสารภาพบางอย่างกับคุณแต่ลังเลและเปลี่ยนเรื่องเป็นโชว์ดาวและดวงดาวกับคุณผ่านกล้อง\n\n2 – A cold, dark abyss.   รู้สึกเย็นยะเยือก ก้นบึ้นของความมืด\n\nMaru เห็นด้วยอย่างไม่เต็มใจนัก และแสดงความคิดเห็นว่าตั้งแต่ที่คุณเป็นมนุษย์ พวกเราทั้ังคู่นั้นตายก่อนที่ดาวดวงไหนจะมาบรรจบกันเสียอีก เธอเริ่มที่จะสารภาพบางอย่างกับคุณแต่ลังเลและเปลี่ยนเรื่องเป็นโชว์ดาวและดวงดาวกับคุณผ่านกล้อง"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "ที่บ้านของเธอ (เข้าไปที่บ้านของเธอหลังจากที่เธอกลับมาจากทำงานที่คลินิก) Maru จะให้คุณดูว่าเธอกำลังทำงานอะไรอยู่ และทำให้คุณตกใจกับการทดลอง คุณมีตัวเลือกที่จะบอกเธอว่าการตกใจเมื่อกี้ค่อนข้างเจ็บปวดหรือมันเจ็บปวดสุดๆ ตัวเลือกแรกจะทำให้เธออารมณ์ดีขึ้นมานิดนึงแต่เธอก็รู้สึกเสียใจที่ทำให้คุณตกใจ"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "ที่บ้านของมารุ (วันศุกร์เวลาบ่ายโมง) เธอจะโชว์ให้คุณดูสิ่งที่เธอมาตลอดทั้งเดือนที่ผ่านมา นั่นคือหุ่นยนต์ที่สามารถพูดและทำงานได้ สร้างขึ้นเพื่อช่วยพ่อแม่ของเธอเวลาที่เธอตัดสินใจย้ายออกจากบ้าน อย่างไรก็ตาม เจ้าหุ่นยนต์ไม่ต้องการเป็นคนรับใช้ หุ่นยนต์ขอบคุณมารุที่ปลูกฝังให้มันสามารถรับรู้เรื่องราวต่างๆ ได้ด้วยตัวเอง และขอออกจากบ้านเพื่อตามหาสิ่งมีชีวิตที่ถูกสร้างขึ้นมาเหมือนตัวมัน เมื่อหุ่นยนต์ไปแล้ว มารุจะถามคุณว่าคิดอย่างไรกับสิ่งประดิษฐ์ของเธอ (…) และถ้าคุณเลือกคำตอบถูก เธอจะจูบคุณเพื่อแสดงให้เห็นถึงความสนใจของเธอที่มีต่อวิทยาศาสตร์"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

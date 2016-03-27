@@ -1,0 +1,190 @@
+{
+    "name": "Sam (แซม)",
+    "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Sam.png?w=128",
+    "birthday": "วันที่ 17 ฤดูร้อน (Summer 17)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“Sam เป็นคนเข้าสังคมเก่ง มีอัธยาศัยดี เขาจะเติมเต็มคุณด้วยพลังงานที่มีอยู่ในตัวเขา เขาเล่นกีตาร์และตีกลอง และอยากจะสร้างวงดนตรีกับ Sebastian เมื่อเขามีเพลงมากพอ อย่างไรก็ตามเขามักจะเริ่มต้นสร้างโปรเจคด้วยความทะเยอทะยานแต่ทิ้งไว้ไม่ทำให้สำเร็จ  Sam ค่อนข้างเครียดกับพ่อที่ไปทำงานนอกเมืองเป็นเวลาหลายปีและกำลังจะกลับมาในไม่ช้า.”",
+    "gift": {
+        "best": {
+            "en_msg": "“Aw, yea! This is my absolute favorite!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png?resize=48%2C48",
+                    "name": "Cactus Fruit   ",
+                    "found_in": "Foraging – The Desert"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png?resize=48%2C48",
+                    "name": "Maple Bar",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thanks! I really like this.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png?resize=48%2C48",
+                    "name": "Joja Cola",
+                    "found_in": "Fishing, 75g Saloon Vending Machine"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/2/26/Egg.png?resize=48%2C48",
+                    "name": "White Egg",
+                    "found_in": "White Chickens"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png?resize=48%2C48",
+                    "name": "Brown Egg",
+                    "found_in": "Brown Chickens"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png?resize=48%2C48",
+                    "name": "Ice Cream",
+                    "found_in": "Bought at Ice Cream Stand in summer."
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png?resize=48%2C48",
+                    "name": "Earth Crystal",
+                    "found_in": "Gems"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png?resize=48%2C48",
+                    "name": "Honey",
+                    "found_in": "Bee House"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "“You got this for me? Thanks!”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png?resize=48%2C48",
+                    "name": "Spice Berry",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png?resize=48%2C48",
+                    "name": "Grape",
+                    "found_in": "Farming – FallForaging – Summer"
+                }
+            ]
+        },
+        "bad": {
+            "en_msg": "“Hmm.. this is… interesting.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "All Greens",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – The Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/aa/Hay.png?resize=48%2C48",
+                    "name": "Hay",
+                    "found_in": "Foraging – Scythe ; Marnie"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png?resize=48%2C48",
+                    "name": "Daffodil",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png?resize=48%2C48",
+                    "name": "Oyster",
+                    "found_in": "Foraging – The BeachCrab Pots"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png?resize=48%2C48",
+                    "name": "Seaweed",
+                    "found_in": "Fishing"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“You really don’t get it, huh?”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png?resize=48%2C48",
+                    "name": "Mayonnaise",
+                    "found_in": "Artisan Goods"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "เข้าไปในห้องของเขาเพื่อเริ่มเหตุการณ์\nแซมและเซบาสเตียนกำลังเล่นนตรีอยู่ในห้อง เขาจะเล่าว่ากำลังสร้างวงดนตรีของตัวเองอยู่แต่ไม่รู้ว่าจะแต่งเพลงแบบไหนดี และเขาจะให้เราช่วยเลือกหน่อย และเขาจะขอบคุณที่เราช่วยเลือก และชวนเซบาสเตียนทำเพลงนั้นต่อ"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "ไปที่ชายหาดในหัวฟ้าใสเพื่อเริ่มเหตุการณ์\nแซมกำลังดูแลน้องชายของเขาให้เล่นบนชายหาด น้องชายเขาจะเริ่มถามถึงพ่อที่เป็นทหารและไม่กลับมาบ้านเสียที แซมได้แต่ปลอบว่าเดี๋ยวเขาก็กลับมา และหันมาถามเราว่าเราควรจะบอกความจริง หรือปล่อยให้เด็กได้สนุกกับชีวิตวัยเด็กและมีความหวังต่อไปก่อน เขาจะเริ่มเล่าว่าจริงๆแล้วมีข่าวที่ทหารตายไปนับพันนาย แต่เขาก็ยังมั่นใจว่าพ่อจะกลับมาแน่นอน\n\nไปหาเขาที่บ้านเพื่อเริ่มเหตุการณ์\nแซมกำลังหาอะไรกินอยู่ เมื่อเราเข้าไปเขาจะบอกว่าจะเอาอะไรให้กิน แต่เผลอทำตกแตก แม่ของเขาจะวิ่งเข้ามาและถามว่าเกิดอะไรขึ้น เราจะเลือกรับผิดแทนหรือบอกความจริงไปก็ได้ แต่ไม่ว่ายังไงแม่ของเขาก็ไม่ว่าอะไรอยู่แล้ว"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "ไปหาเขาที่บ้านเพื่อนเริ่มเหตุการณ์\nแซมกำลังเล่นสเก็ตบอร์ดอยู่ จนเกือบจะไปชนคุณหัวหน้าหมู่บ้านเข้า เลยโดนดุไป เราผ่านมาพอดีระหว่างที่เขากำลังบ่น ลุงหัวหน้าหมู่บ้านจะถามเราว่าเราคิดยังไงระหว่างปล่อยๆไปกับให้เขาระวังมากขึ้น หรือจะไม่ยุ่งก็ได้"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "แซมจะมาหาที่บ้านของเราตอนเช้า\nแซมมาบอกว่าเขาจะได้ไปเล่นบนเวทีจริงแล้ว ที่เมือง Zuzu และอยากให้เราไปให้กำลังใจเขา เขานัดเจอที่รถบัสตอน 4โมงเย็น ถ้าเราไป เราจะได้ไปพร้อมกับคนอื่นๆ ทั้งแซมมือกีตาร์ เซบาสเตียนมือคีย์บอร์ด และเอบิเกลมือกลอง\nที่งาน แซมก็จะเล่นดนตรีโดยมีคนมาดูไม่เยอะมากนัก แต่ก็มีชาวเมืองมาดูด้วย รวมถึงแม่ของเขาเอง เราจะเริ่มเล่นเพลงที่เราเสนอให้ในตอนแรก งานดนตรีจะจบลงด้วยดี และเมื่อจบงาน เราจะกลับมาที่เมืองในเวลา 4โมงเย็นเท่าเดิม"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "เราจะได้รับจดหมายในตอนเช้าจากแซมให้ไปหาเขาตอนดึก\nหลังจากสองทุ่ม แซมจะมารอหน้าบ้าน บ้านของเขาล็อคแล้ว เขาบอกว่ามีเรื่องอยากคุยกับเราเป็นการส่วนตัว แต่ข้างนอกค่อนข้างหนาว เราเลยต้องเข้าทางหน้าต่าง\nเขาเริ่มพูดว่าจริงๆแล้วหวังให้เราไม่ได้คิดกับเขาแค่เพื่อนกันธรรมดาและเริ่มบอกความในใจ แต่แม่ของเขาก็จะมาเคาะประตู แซมจะบอกให้เราไปซ่อนในเตียงและตัวแซมจะไปคุยกับแม่เอง แซมบอกว่ากำลังออกกำลังกายฟิตซ้อมไปแข่งงัดข้อกับพ่อ แม่ของเขาเลยแซวว่ามิน่าล่ะ หน้าแดงเหงื่อตกเชียว และออกไป\nเมื่อแม่ของเขาออกไปแล้ว เราจะยังอยู่ในเตียงต่อ็ได้ แซมจะเข้ามาจูบเราในเตียงเลย\nเขาจะบอกว่า “ชั้นรู้สึกได้ ว่ามันมีบางอย่าง พิเศษมากๆระหว่างเรา”"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/nav_back"
+        android:icon="@drawable/ic_arrow_back"
+        android:id="@+id/back_to_main"/>
+
+
+    <item android:title="ชายโสดที่สามารถแต่งงานด้วยได้">
+        <menu>
+            <item
+                android:id="@+id/villagers_sub_alex"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_alex" />
+            <item
+                android:id="@+id/villagers_sub_elliott"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_elliott" />
+            <item
+                android:id="@+id/villagers_sub_harvey"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_harvey" />
+            <item
+                android:id="@+id/villagers_sub_sam"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_sam" />
+            <item
+                android:id="@+id/villagers_sub_sebastian"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_sebastian" />
+        </menu>
+    </item>
+
+    <item android:title="หญิงโสดที่สามารถแต่งงานด้วยได้">
+        <menu>
+            <item
+                android:id="@+id/villagers_sub_abigail"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_abigail" />
+            <item
+                android:id="@+id/villagers_sub_haley"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_haley" />
+            <item
+                android:id="@+id/villagers_sub_leah"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_leah" />
+            <item
+                android:id="@+id/villagers_sub_maru"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_maru" />
+            <item
+                android:id="@+id/villagers_sub_peny"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_peny" />
+        </menu>
+    </item>
+
+    <item android:title="ผู้ที่ไม่สามารถแต่งงานด้วยได้">
+        <menu>
+            <item
+                android:id="@+id/villagers_sub_caroline"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_caroline" />
+            <item
+                android:id="@+id/villagers_sub_clint"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_clint" />
+            <item
+                android:id="@+id/villagers_sub_demetrius"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_demetrius" />
+            <item
+                android:id="@+id/villagers_sub_dwarf"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_dwarf" />
+            <item
+                android:id="@+id/villagers_sub_emily"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_emily" />
+            <item
+                android:id="@+id/villagers_sub_evelyn"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_evelyn" />
+            <item
+                android:id="@+id/villagers_sub_george"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_george" />
+            <item
+                android:id="@+id/villagers_sub_gus"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_gus" />
+            <item
+                android:id="@+id/villagers_sub_jas"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_jas" />
+            <item
+                android:id="@+id/villagers_sub_jodi"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_jodi" />
+            <item
+                android:id="@+id/villagers_sub_kent"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_kent" />
+            <item
+                android:id="@+id/villagers_sub_krobus"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_krobus" />
+            <item
+                android:id="@+id/villagers_sub_lewis"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_lewis" />
+            <item
+                android:id="@+id/villagers_sub_linus"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_linus" />
+            <item
+                android:id="@+id/villagers_sub_marnie"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_marnie" />
+            <item
+                android:id="@+id/villagers_sub_pam"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_pam" />
+            <item
+                android:id="@+id/villagers_sub_pierre"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_pierre" />
+            <item
+                android:id="@+id/villagers_sub_robin"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_robin" />
+            <item
+                android:id="@+id/villagers_sub_sandy"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_sandy" />
+            <item
+                android:id="@+id/villagers_sub_shane"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_shane" />
+            <item
+                android:id="@+id/villagers_sub_vincent"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_vincent" />
+            <item
+                android:id="@+id/villagers_sub_willy"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_willy" />
+            <item
+                android:id="@+id/villagers_sub_wizzard"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_wizzard" />
+        </menu>
+    </item>
+
+    <item android:title="คนที่ให้ของขวัญไม่ได้">
+        <menu>
+            <item
+                android:id="@+id/villagers_sub_bouncer"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_bouncer" />
+            <item
+                android:id="@+id/villagers_sub_gil"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_gil" />
+            <item
+                android:id="@+id/villagers_sub_governor"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_governor" />
+            <item
+                android:id="@+id/villagers_sub_gunther"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_gunther" />
+            <item
+                android:id="@+id/villagers_sub_marlon"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_marlon" />
+            <item
+                android:id="@+id/villagers_sub_morris"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_morris" />
+            <item
+                android:id="@+id/villagers_sub_mrqi"
+                android:icon="@drawable/ic_polymer"
+                android:title="@string/villagers_sub_mrqi" />
+        </menu>
+    </item>
+
+</menu>

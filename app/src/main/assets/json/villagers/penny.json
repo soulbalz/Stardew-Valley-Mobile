@@ -1,0 +1,229 @@
+{
+    "name": "Penny",
+    "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/Penny.png?w=128",
+    "birthday": "วันที่ 2 ฤดูใบไม้ร่วง (Fall 2)",
+    "marriage": "สามารถแต่งงานด้วยได้",
+    "desc": "“เพนนีอาศัยอยู่กับแพมแม่ของเธอ  ในรถบ้านเล็กๆริมแม่น้ำ  ขณะที่แม่ของเธอออกไปดื่มสุราที่ Saloon เธอต้องทำงานบ้านด้วยความท้อแท้ และในห้องที่แสนอุดอู้ของเธอถูกบังคับให้เรียกว่าบ้าน เธอเป็นคนขี้อายและเจียมเนื้อเจียมตัวโดยไม่มีความทะเยอทะยานในชีวิต ได้แต่หวังว่าสักวันหนึ่งจะปักหลักและสร้างครอบครัวของเธอเอง. เธอชอบทำอาหาร (ถึงแม้ว่าสกิลการทำอาหารของเธอจะมีปัญหาก็ตาม) และอ่านหนังสือแถวๆห้องสมุด”",
+    "gift": {
+        "best": {
+            "en_msg": "“Thank you! I really love this!”",
+            "th_msg": "“ขอบใจมากนะ! ฉันชอบมันมากๆเลย!”",
+            "note": "คำเตือน: Penny ไม่ชอบ Rabbits Foots",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/4/45/Red_Plate.png?resize=48%2C48",
+                    "name": "Red Plate",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png?resize=48%2C48",
+                    "name": "Tom Kha Soup",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/e0/Roots_Platter.png?resize=48%2C48",
+                    "name": "Roots Platter",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/19/Melon.png?resize=48%2C48",
+                    "name": "Melon",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png?resize=48%2C48",
+                    "name": "Diamond",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png?resize=48%2C48",
+                    "name": "Emerald",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png?resize=48%2C48",
+                    "name": "Sandfish",
+                    "found_in": "Fishing"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png?resize=48%2C48",
+                    "name": "Poppy",
+                    "found_in": "Farming"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Thank you! This looks special.”",
+            "th_msg": "“ขอบใจนะ! มันช่างดูพิเศษจริงๆ!”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "นมทุกอย่าง All Milk",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/5/57/Leek.png?resize=48%2C48",
+                    "name": "Leek",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png?resize=48%2C48",
+                    "name": "Tulip",
+                    "found_in": "Farming – Spring"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png?resize=48%2C48",
+                    "name": "Dandelion",
+                    "found_in": "Foraging – Spring"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png?resize=48%2C48",
+                    "name": "Sweet Pea",
+                    "found_in": "Foraging – Summer"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png?resize=48%2C48",
+                    "name": "Holly",
+                    "found_in": "Foraging – Winter"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png?resize=48%2C48",
+                    "name": "Cheese",
+                    "found_in": "Cheese Press"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png?resize=48%2C48",
+                    "name": "Corn",
+                    "found_in": "Farming – Summe/Fall"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png?resize=48%2C48",
+                    "name": "Pizza",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png?resize=48%2C48",
+                    "name": "Amethyst",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/e/ed/Sunflower_Stage_5.png?resize=50%2C80",
+                    "name": "SunFlower",
+                    "found_in": "Farming – Fall"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“Uh, it’s for me? …Thanks.”",
+            "th_msg": "“อาาา, นั่นสำหรับชั้นเหรอ ? … ขอบใจนะ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "ปลาทั้งหมด All Fish",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png?resize=48%2C48",
+                    "name": "Spring Onion",
+                    "found_in": "Foraging – Spring"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "“Ugh…I’m sorry, but I absolutely hate this.”",
+            "th_msg": "“เอ่อ… ขอโทษนะ แต่ชั้นเกลียดมันมากจริงๆ”",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png?resize=48%2C48",
+                    "name": "Grape",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/5/59/Hops.png?resize=48%2C48",
+                    "name": "Hops",
+                    "found_in": "Farming"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png?resize=48%2C48",
+                    "name": "Pale Ale",
+                    "found_in": "Artisan Goods"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/df/Dried_Starfish.png?resize=48%2C48",
+                    "name": "Dried Starfish",
+                    "found_in": "Beach"
+                }
+            ]
+        }
+    },
+    "heart_events": [
+        {
+            "name": "Two Hearts (หัวใจ2ดวง)",
+            "desc": "เข้าไปในเมืองในเวลาที่แน่นอน (9:30am,ยืนยันแล้ว) จะตัดเข้าคัทซีนที่ George กำลังพยายามที่จะหยิบจดหมายจากตู้จดหมายแต่ไม่สำเร็จเพราะรถเข็น. Penny เห็นเขาแล้วพยายามจะช่วย ซึ่งทำให้ George ต่อว่าเธอ ผู้เล่นมีตัวเลือกที่จะเห็นด้วยกับ Penny หรือไม่ก็ George"
+        },
+        {
+            "name": "Four Hearts(หัวใจ4ดวง)",
+            "desc": "เข้าไปในรถเทรลเลอร์ในเวลาที่แน่นอน (ยืนยันแล้ว 10:00am วันเสาร์ ฤดูร้อน) ตัดเข้าคัทซีนที่ Penny กำลังบ่นว่าที่นี่ค่อนข้างรก และขอร้องคุณว่าเต็มใจไหมที่จะช่วยเธอทำความสะอาด ทุกอย่างกำลังไปได้ดีจนกระทั่ง Pam กลับมาและเกิดการถกเถียงกันกับ Penny. Pam ขอให้คุณกลับไป และพวกเขาก็ยังเถียงต่อไปอีก ก่อนที่คัทซีนจะจบ"
+        },
+        {
+            "name": "Six Hearts(หัวใจ6ดวง)",
+            "desc": "เข้าไปในรถเทรลเลอร์ในเวลาใดก็ได้ (ตอน 9โมงในตอนเช้าเธอจะอยู่เข้าใน) ตัดเข้าคัทซีนที่ Penny ขอให้คุณลองชิมอาหารใหม่ของเธอ ในตัวเลือกแรกจะบังคับให้คุณโกหกเธอ อีกสองตัวเลือกที่เหลือจะทำให้เธอหดหู่ (อาหารนั่นค่อนข้างแย่เลยทีเดียว ! :P) ถ้าคุณตัดสินใจที่จะโกหก เธอจะบอกกับคุณว่าเธอพยายามแค่ไหนกับอาหารนั่น และ เธอก็จะตั้งชื่อมันโดยมีชื่อคุณ จากนั้นเธอขอให้คุณดูหนังด้วย หลังจากนั้นจบคัทซีน\nถึงอีกสองตัวเลือกนั้นจะทำให้เธอหดหู่ แต่มันก็ไม่ส่งผลถึงความสัมพันธ์"
+        },
+        {
+            "name": "Eight Hearts(หัวใจ8ดวง)",
+            "desc": "เข้าไปในป่าทางใต้ของฟาร์ม (ราวๆ 2pm) ตัดเข้าคัทซีนที่ ทัศนศึกษาของ Penny, Jas และ Vincent. Penny ขอให้คุณเป็นวิทยากรและแบ่งปันความรู้เกี่ยวกับชนบทแก่เด็กๆ คุณจะต้องตอบกับบทสนทนาจำนวนหนึ่ง (ผมคิดว่าเลือกอะไรก็ได้มันไม่น่ามีอะไรเกิดขึ้นหรอก) หลังจากนั้น Penny จะให้เด็กออกไปสำรวจและเริ่มคุยกับเรา เธอถามคุณว่าคุณอยากจะเป็นพ่อไหมและหลังจากที่คุณตอบ (หวังว่าจะตอบถูกนะ) เธอก็จะบอกว่าเธอก็คิดเหมือนกัน กล้องจะตัดไปและเริ่มมืดขึ้นและเธอก็ขอบคุณสำหรับการปรากฏตัวของคุณ"
+        },
+        {
+            "name": "Ten Hearts(หัวใจ10ดวง)",
+            "desc": "ผู้เล่นจะพบจดหมายที่ถูกเขียนโดย Penny ในตู้จดหมายเพื่อขอให้คุณไปโรงอาบน้ำตอนกลางคืน เพื่อผู้เล่นเข้าไปจะตัดเข้าคัทซีน Pennyกำลังอาบน้ำร่วมกับผู้เล่น เลยถามผู้เล่นว่ารู้หรือเปล่าว่าทำไมเธอถึงขอให้เข้ามาในโรงอาบน้ำ ถ้าตอบคำถามถูก คัทซีนสุดท้ายจะจบลงด้วยการจูบของทั้งสอง"
+        },
+        {
+            "name": "Marriage(แต่งงาน)",
+            "desc": "การจะแต่งงานกับใครสักคน จะต้องทำให้ค่าความสัมพันธ์ขึ้นถึงระดับ 10 แล้วก็ให้ช่อดอกไม้ (หาซื้อได้ที่ร้านของ Pierre) เราต้องหาซื้อ Mermaid Pendant จากคุณลุงชาวประมงที่ชายหาดด้านข้างหลังจากซ่อมสะพานแล้ว เราสามารถให้ Pendant กับคนที่เราต้องการและเตรียมตัวสำหรับการแต่งงาน ใช้เวลาประมาณ 3 วันสำหรับคำตอบ\nเมื่อเราแต่งงาน คู่สมรสจะย้ายเข้ามาอยู่กับเรา พูดประโยคใหม่ๆ และช่วยงานในฟาร์ม คู่สมรสแต่ละคนก็จะมีคำพูดที่แตกต่างกัน เพื่อให้ประสบการณ์การแต่งงานแตกต่างกันไป คู่สมรสบางคนที่มีงานทำในเมืองก็จะยังคงไปทำงานเช่นเดิม\nสิ่งที่คู่สมรสช่วยงานในฟาร์มได้:\nรดน้ำพืชผัก ให้อาหารสัตว์ ทำอาหารเช้า ซ่อมรั้ว อาหารเช้ามักจะเป็นแพนเคก ที่ช่วยเพิ่มอัตราการเก็บของป่า +2 เป็นเวลา 12 นาที อาหารเช้าเมนูอื่นๆ คาดว่าจะสามารถทำได้ในอนาคต\nยังไงก็ตาม ถ้าหากเราดูแลคู่สมรสไม่ดีเขาก็จะไม่มีความสุข ซึ่งจะส่งผลกับการกระทำ เช่น นอนอยู่บนเตียงทั้งวันและพูดจิกกัด ถ้าเราทำให้คู่สมรสมีความสุข เขาก็อาจจะมีลูกให้เรา\nคู่สมรสของเราอาจจะบ่นได้หากของตกแต่งบ้านเรามีมากเกินไป เพราะการเดินของพวกเขาจะถูกกั้น\nความสุขและนิสัยของคู่สมรสไม่อาจจะคาดเดาได้ อาจจะแปลกไปจากนิสัยปกติซึ่งยังหาข้อสรุปไม่ได้ ที่เราทำได้คือ พูดคุยกับเขาจนได้รับปฏิกิริยาตอบกลับเป็นการจุบหรือเขินอายวันละครั้ง อาจจะพูดคุยกับเขามากขึ้นในวันต่อมา แต่อาการเขินอายหรือจูบจะขึ้นหัวใจเพียงหนึ่งวันต่อวัน เดาเอาว่านั่นทำให้พวกเขามีความสุข"
+        }
+    ]
+}

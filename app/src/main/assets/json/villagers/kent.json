@@ -1,0 +1,129 @@
+{
+    "name": "Kent",
+    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/9/99/Kent.png?resize=129%2C129",
+    "birthday": "วันที่ 4 ฤดูใบไม้ผลิ (Spring 4)",
+    "marriage": "ไม่สามารถแต่งงานด้วยได้",
+    "desc": "Kent is a villager who lives in Pelican Town. He is away serving in the army throughout the first year and returns to live in the town during spring of year two.",
+    "gift": {
+        "best": {
+            "en_msg": "“Oh…! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Loves",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png?resize=48%2C48",
+                    "name": "Roasted Hazelnuts",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png?resize=48%2C48",
+                    "name": "Fiddlehead Risotto",
+                    "found_in": "Cooking"
+                }
+            ]
+        },
+        "good": {
+            "en_msg": "“Hey, now this is a really great gift. Thanks.”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Likes",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Eggs",
+                    "found_in": ""
+                },
+                {
+                    "image": "",
+                    "name": "All Fruits",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png?resize=48%2C48",
+                    "name": "Beer",
+                    "found_in": "The Saloon"
+                }
+            ]
+        },
+        "neutral": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": []
+        },
+        "bad": {
+            "en_msg": "“Ah… It’s a… what is this, exactly? Hmm…”",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Dislikes",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png?resize=48%2C48",
+                    "name": "Quartz",
+                    "found_in": "Foraging – Mines"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png?resize=48%2C48",
+                    "name": "Clay",
+                    "found_in": "Foraging – Hoe"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png?resize=48%2C48",
+                    "name": "Snow Yam",
+                    "found_in": "Foraging – Winter"
+                }
+            ]
+        },
+        "worst": {
+            "en_msg": "",
+            "th_msg": "",
+            "note": "",
+            "item": [
+                {
+                    "image": "",
+                    "name": "Universal Hates",
+                    "found_in": ""
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png?resize=48%2C48",
+                    "name": "Sashimi",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png?resize=48%2C48",
+                    "name": "Maki Roll",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/5/53/Algae_Soup.png?resize=48%2C48",
+                    "name": "Algae Soup",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png?resize=48%2C48",
+                    "name": "Tortilla",
+                    "found_in": "Cooking"
+                },
+                {
+                    "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png?resize=48%2C48",
+                    "name": "Stone",
+                    "found_in": "Mining"
+                }
+            ]
+        }
+    },
+    "heart_events": []
+}
