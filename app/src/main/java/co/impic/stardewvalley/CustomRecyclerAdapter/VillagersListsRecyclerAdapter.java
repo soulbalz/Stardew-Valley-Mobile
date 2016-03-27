@@ -52,7 +52,6 @@ public class VillagersListsRecyclerAdapter extends RecyclerView.Adapter<Villager
                 @Override
                 public void onClick(View v) {
 
-
                     VillagerFragment fragment = VillagerFragment.newInstance(name.toLowerCase());
 
                     FragmentTransaction transaction = fragmentManager.beginTransaction();

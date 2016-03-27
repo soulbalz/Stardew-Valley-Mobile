@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Stardew Valley</string>
-    <string name="app_name_mobile">Stardew Valley Mobile Version</string>
     <string name="creator">Create By IMPIC.CO</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>

@@ -21,7 +21,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import co.impic.stardewvalley.CustomFragment.HomeFragment;
 import co.impic.stardewvalley.CustomFragment.VillagerFragment;
 import co.impic.stardewvalley.CustomFragment.VillagersListsFragment;
 
@@ -49,12 +48,14 @@ public class MainActivity extends AppCompatActivity
         navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        HomeFragment fragment = null;
+        VillagersListsFragment fragment = null;
         try {
-            fragment = HomeFragment.newInstance();
+            fragment = VillagersListsFragment.newInstance();
+//            fragment = HomeFragment.newInstance();
         } catch (Exception e) {
             e.printStackTrace();
         }
+
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction transaction = fragmentManager.beginTransaction();
         transaction.replace(R.id.content_layout, fragment);
@@ -124,13 +125,14 @@ public class MainActivity extends AppCompatActivity
                 break;
             case R.id.nav_home:
                 is_fragment = true;
-                fragment = HomeFragment.newInstance();
+//                fragment = HomeFragment.newInstance();
+                fragment = VillagersListsFragment.newInstance();
                 break;
             case R.id.nav_villagers:
-                is_fragment = true;
+//                is_fragment = true;
                 navigationView.getMenu().clear();
                 navigationView.inflateMenu(R.menu.villagers_submenu_drawer);
-                fragment = VillagersListsFragment.newInstance();
+//                fragment = VillagersListsFragment.newInstance();
                 break;
             case R.id.villagers_sub_mrqi:
                 is_fragment = true;
