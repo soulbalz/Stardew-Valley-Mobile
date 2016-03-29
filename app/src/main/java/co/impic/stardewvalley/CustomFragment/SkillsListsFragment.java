@@ -2,11 +2,13 @@ package co.impic.stardewvalley.CustomFragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ScrollView;
+import android.widget.TextView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
@@ -21,32 +23,43 @@ import java.io.IOException;
 import java.io.InputStream;
 
 import co.impic.stardewvalley.AnalyticsApplication;
-import co.impic.stardewvalley.CustomRecyclerAdapter.VillagersListsRecyclerAdapter;
+import co.impic.stardewvalley.CustomRecyclerAdapter.SkillsListsRecyclerAdapter;
 import co.impic.stardewvalley.R;
 
-public class VillagersListsFragment extends Fragment {
+public class SkillsListsFragment extends Fragment {
+    private static final String KEY_SKILL = "skills";
+
+    private String skillname;
 
     // Recycler View Variable
     protected RecyclerView mRecyclerView;
-    protected VillagersListsRecyclerAdapter mAdapter;
+    protected SkillsListsRecyclerAdapter mAdapter;
     protected RecyclerView.LayoutManager mLayoutManager;
     protected JSONArray mDataset;
+    protected String jsonString;
 
     Tracker mTracker;
 
-    public static VillagersListsFragment newInstance() {
-        VillagersListsFragment fragment = new VillagersListsFragment();
-        return fragment;
+    public SkillsListsFragment() {
+        // Required empty public constructor
     }
 
-
-    public VillagersListsFragment() {
-        // Required empty public constructor
+    public static SkillsListsFragment newInstance(String keyword) {
+        SkillsListsFragment fragment = new SkillsListsFragment();
+        Bundle args = new Bundle();
+        args.putString(KEY_SKILL, keyword);
+        fragment.setArguments(args);
+        return fragment;
     }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        Bundle bundle = getArguments();
+        if (bundle != null) {
+            skillname = bundle.getString(KEY_SKILL);
+        }
 
         initDataset();
     }
@@ -54,9 +67,8 @@ public class VillagersListsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
-        return inflater.inflate(R.layout.fragment_villagers_lists, container, false);
-
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_skills_lists, container, false);
     }
 
     @Override
@@ -66,7 +78,7 @@ public class VillagersListsFragment extends Fragment {
         // Obtain the shared Tracker instance.
         AnalyticsApplication application = (AnalyticsApplication) getActivity().getApplication();
         mTracker = application.getDefaultTracker();
-        mTracker.setScreenName("Villagers Lists Page");
+        mTracker.setScreenName("Skills Lists Page");
         mTracker.send(new HitBuilders.ScreenViewBuilder().build());
 
         AdView adView = (AdView) view.findViewById(R.id.adView);
@@ -76,14 +88,24 @@ public class VillagersListsFragment extends Fragment {
                 .build();
         adView.loadAd(adRequest);
 
-        mRecyclerView = (RecyclerView) view.findViewById(R.id.VillagersListsRecyclerView);
-        mLayoutManager = new GridLayoutManager(getActivity(), 2);
+        TextView skillDetail = (TextView) view.findViewById(R.id.txt_skills_detail);
+        skillDetail.setText(jsonString);
+
+
+        mRecyclerView = (RecyclerView) view.findViewById(R.id.SkillsListsRecyclerView);
+        mRecyclerView.setFocusable(false);
+        mRecyclerView.setNestedScrollingEnabled(false);
+
+        mLayoutManager = new LinearLayoutManager(getActivity());
 
         mRecyclerView.setLayoutManager(mLayoutManager);
-        mAdapter = new VillagersListsRecyclerAdapter(getActivity(), mDataset, getFragmentManager());
+        mAdapter = new SkillsListsRecyclerAdapter(getActivity(), mDataset, getFragmentManager(), skillname);
 
         // Set CustomAdapter as the adapter for RecyclerView.
         mRecyclerView.setAdapter(mAdapter);
+
+        final ScrollView sv = (ScrollView) view.findViewById(R.id.scrollView);
+        sv.isSmoothScrollingEnabled();
 
         String[] splitSize = adView.getAdSize().toString().split("_");
         String[] splitSize2 = splitSize[0].split("x");
@@ -91,23 +113,32 @@ public class VillagersListsFragment extends Fragment {
         final float scale = getResources().getDisplayMetrics().density;
         Integer bottomSize = (int) (Integer.parseInt(splitSize2[1]) * scale + 0.5f);
 
-        mRecyclerView.setPadding(16, 16, 16, bottomSize);
+        sv.setPadding(16, 16, 16, bottomSize);
     }
 
     @Override
     public void onResume() {
         super.onResume();
 
-        mTracker.setScreenName("Villagers Lists Page");
+        mTracker.setScreenName("Villagers Skills Page");
         mTracker.send(new HitBuilders.ScreenViewBuilder().build());
     }
 
     private void initDataset() {
-        JSONArray objArr;
+        JSONArray objArr = null;
         String json = loadJSONFromAsset();
         try {
             JSONObject obj = new JSONObject(json);
-            objArr = obj.getJSONArray("villagers");
+            if (skillname == "lists"){
+                objArr = obj.getJSONArray("skill_name");
+                jsonString = obj.getString("desc");
+            } else {
+                JSONObject obj2 = obj.getJSONObject("skill");
+                JSONObject obj3 = obj2.getJSONObject(skillname);
+                objArr = obj3.getJSONArray("level");
+                jsonString = obj3.getString("desc");
+            }
+
             mDataset = objArr;
         } catch (JSONException e) {
             e.printStackTrace();
@@ -117,7 +148,7 @@ public class VillagersListsFragment extends Fragment {
     public String loadJSONFromAsset() {
         String json = null;
         try {
-            InputStream is = getActivity().getAssets().open("json/villagers.json");
+            InputStream is = getActivity().getAssets().open("json/skills.json");
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);

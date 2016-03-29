@@ -10,6 +10,10 @@
             android:id="@+id/nav_villagers"
             android:icon="@drawable/ic_add"
             android:title="@string/nav_villagers" />
+        <item
+            android:id="@+id/nav_skills"
+            android:icon="@drawable/ic_add"
+            android:title="@string/nav_skills" />
     </group>
 
 </menu>

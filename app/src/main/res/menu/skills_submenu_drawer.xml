@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/nav_back"
+        android:icon="@drawable/ic_arrow_back"
+        android:id="@+id/back_to_main"/>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/skills_sub_farming"
+            android:icon="@drawable/ic_polymer"
+            android:title="@string/skills_sub_farming" />
+        <item
+            android:id="@+id/skills_sub_mining"
+            android:icon="@drawable/ic_polymer"
+            android:title="@string/skills_sub_mining" />
+        <item
+            android:id="@+id/skills_sub_foraging"
+            android:icon="@drawable/ic_polymer"
+            android:title="@string/skills_sub_foraging" />
+        <item
+            android:id="@+id/skills_sub_fishing"
+            android:icon="@drawable/ic_polymer"
+            android:title="@string/skills_sub_fishing" />
+        <item
+            android:id="@+id/skills_sub_combat"
+            android:icon="@drawable/ic_polymer"
+            android:title="@string/skills_sub_combat" />
+    </group>
+</menu>

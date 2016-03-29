@@ -10,6 +10,14 @@
     <string name="nav_back">ย้อนกลับ</string>
     <!-- Other Menus -->
     <string name="nav_villagers">ชาวบ้าน</string>
+    <string name="nav_skills">Skill (ทักษะ)</string>
+
+    <!-- Skills Menus -->
+    <string name="skills_sub_farming">Farming</string>
+    <string name="skills_sub_mining">Mining</string>
+    <string name="skills_sub_foraging">Foraging</string>
+    <string name="skills_sub_fishing">Fishing</string>
+    <string name="skills_sub_combat">Combat</string>
 
     <!-- Villagers Menus -->
     <string name="villagers_sub_alex">Alex</string>

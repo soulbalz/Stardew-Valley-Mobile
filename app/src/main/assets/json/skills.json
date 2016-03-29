@@ -1,0 +1,717 @@
+{
+    "desc": "ทักษะของผู้เล่น จะเพิ่มขึ้นจากการใช้อุปกรณ์หรือการกระทำต่างๆภายในเกม ทักษะที่เพิ่มขึ้นจะเพิ่มความสามารถของเครื่องมือบางอย่างและปลดล็อคการคราฟของที่เป็นประโยชน์ต่อการเล่น สกิลต่างๆจะมีทั้งหมด 10 เลเวลและทุกๆเลเวลที่ 5 และ 10 ผู้เล่นจะต้องเลือกความชำนาญ 1 อย่างที่ชอบหรือคิดว่ามีประโยชน์ในระยะยาว จากทั้งหมด 2 อย่างที่มีให้เลือก\nทักษะพิเศษบางอย่างสามารถใช้งานได้ชั่วคราว โดยการกิน Foods พิเศษ ที่จะเพิ่มบัพให้กับผู้เล่น โดยจะมีไอคอนแสดงอยู่ที่ด้านบนขวาของหน้าจอ ข้างๆนาฬิกา ทักษะที่เพิ่มขึ้นสามารถดูได้ที่แถบสกิลตอนกดหยุดเกม (ESC)\nทักษะที่เพิ่มขึ้นสามารถดูได้ที่แถบสกิลตอนกดพักเกม",
+    "skill_name": [
+        {
+            "name": "Farming",
+            "desc": "ในเลเวลนี้จะได้รับ+1 ประสิทธิภาพในการใช้จอบและบัวรดน้ำ tools สามารถเพิ่มเลเวลนี้ได้ด้วยการใช้จอบขุดดินและปลูก crops."
+        },
+        {
+            "name": "Mining",
+            "desc": "ในเลเวลนี้จะได้รับ+1ประสิทธิภาพในการใช้ที่ขุดหิน tools.สามารถเพิ่มเลเวลนี้ได้ด้วยการใช้ที่ขุดหินทุบหิน"
+        },
+        {
+            "name": "Foraging",
+            "desc": "ในเลเวลนี้จะได้รับ+1ประสิทธิภาพในการใช้ขวาน tools.สามารถเพิ่มเลเวลนี้ได้ด้วยการเก็บของในป่า ร่วมทั้งการหาของ และการตัดต้นไม้ด้วยขวาน"
+        },
+        {
+            "name": "Fishing",
+            "desc": "ในเลเวลนี้จะได้รับ+1ประสิทธิภาพในการใช้เบ็ดตกปลา tools.สามารถเพิ่มเลเวลนี้ได้ด้วยการจับปลาหรือตกปลาด้วยเบ็ดตกปลา"
+        },
+        {
+            "name": "Combat",
+            "desc": "ในเลเวลนี้จะได้รับ+5พลังชีวิต สามารถเพิ่มเลเวลนี้ได้ด้วยการต่อสู้กับ monsters."
+        }
+    ],
+    "skill": {
+        "farming": {
+            "desc": "ในเลเวลนี้จะได้รับ+1 ประสิทธิภาพในการใช้จอบและบัวรดน้ำ tools สามารถเพิ่มเลเวลนี้ได้ด้วยการใช้จอบขุดดินและปลูก crops. ด่านล่างคือตารางการปลดล๊อคการคราฟและทักษะพิเศษในเลเวลต่างๆของสกิล",
+            "level": [
+                {
+                    "title": "Crafting Recipes: Level 1",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Scarecrow.png?resize=24%2C48",
+                            "name": "Scarecrow"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Basic_Fertilizer.png?resize=24%2C24",
+                            "name": "Basic Fertilizer"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 2",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Mayonnaise_Machine.png?resize=24%2C46",
+                            "name": "Mayonnaise Machine"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Stone_Fence.png?resize=24%2C24",
+                            "name": "Stone Fence"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Sprinkler.png?resize=24%2C24",
+                            "name": "Sprinkler"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 3",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Bee_House.png?resize=24%2C46",
+                            "name": "Bee House"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Speed-Gro.png?resize=24%2C24",
+                            "name": "Speed-Gro"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Farmers_Lunch.png?resize=24%2C24",
+                            "name": "Farmers Lunch"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 4",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Preserves_Jar.png?resize=24%2C46",
+                            "name": "Preserves Jar"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Basic_Retaining_Soil.png?resize=24%2C24",
+                            "name": "Basic Retaining Soil"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Iron_Fence.png?resize=24%2C24",
+                            "name": "Iron Fence"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 5 (เลือกอย่างใดอย่างหนึ่ง)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Rancher.png?resize=24%2C24",
+                            "name": "<b>Rancher Animal</b><br>เพิ่มราคาของสินค้าเกี่ยวกับสัตว์ขึ้น 10%<br>ปลดล๊อค Coopmaster &amp; Sherpard Professions ที่ เลเวล 10"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Tiller.png?resize=24%2C24",
+                            "name": "<b>Tiller Crops</b><br>เพิ่มราคาของสินค้าเกี่ยวกับผักขึ้น 10%<br>ปลดล๊อค Artisan &amp; Agriculturist Professions ที่เลเวล 10"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 6",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Cheese_Press.png?resize=24%2C46",
+                            "name": "Cheese Press"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Hardwood_Fence.png?resize=24%2C24",
+                            "name": "Hardwood Fence"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Hardwood_Fence.png?resize=24%2C24",
+                            "name": "Quality Sprinkler"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 7",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Loom.png?resize=24%2C46",
+                            "name": "Loom"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Quality_Retaining_Soil.png?resize=24%2C24",
+                            "name": "Quality Retaining Soil"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 8",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Oil_Maker.png?resize=24%2C46",
+                            "name": "Oil Maker"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Keg.png?resize=24%2C44",
+                            "name": "Keg"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Deluxe_Speed-Gro.png?resize=24%2C24",
+                            "name": "Deluxe Speed-Gro"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 9",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Seed_Maker.png?resize=24%2C41",
+                            "name": "Seed Maker"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Iridium_Sprinkler.png?resize=24%2C24",
+                            "name": "Iridium Sprinkler"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Quality_Fertilizer.png?resize=24%2C24",
+                            "name": "Quality Fertilizer"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 10 (เลือกอย่างใดอย่างหนึ่ง ตามสายที่เลือกมาจากข้อ 5)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Rancher.png?resize=24%2C24",
+                            "name": "<u><b>Rancher Animal</b></u>"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/2/26/Coopmaster.png/24px-Coopmaster.png?resize=24%2C24",
+                            "name": "<b>Coopmaster</b><br>หัวใจที่แสดงถึงค่าความสนิทของสัตวในเล้าเพิ่มเร็วขึ้น<br>ระยะเวลาการฝักลดลงครึ่งหนึ่ง"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/8/80/Shepherd.png/24px-Shepherd.png?resize=24%2C24",
+                            "name": "<b>Shepherd</b><br>หัวใจที่แสดงถึงค่าความสนิทของสัตวในโรงนาเพิ่มเร็วขึ้น<br>แกะขนขึ้นเร็ว"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Tiller.png?resize=24%2C24",
+                            "name": "<u><b>Tiller Crops</b></u>"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png?resize=24%2C24",
+                            "name": "<b>Artisan</b><br>อาหารหมักและของที่ใช้เวลาในการบ่ม(ไวน์, ชีส, น้ำมัน, อื่นๆ) ราคาของสินค้าเพิ่มขึ้น 10%"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/7/78/Agriculturist.png/24px-Agriculturist.png?resize=24%2C24",
+                            "name": "<b>Agriculturist</b><br>ผักทั้งหมดโตเร็วขึ้น 10%"
+                        }
+                    ]
+                }
+            ]
+        },
+        "mining": {
+            "desc": "ในเลเวลนี้จะได้รับ+1ประสิทธิภาพในการใช้ที่ขุดหิน tools.สามารถเพิ่มเลเวลนี้ได้ด้วยการใช้ที่ขุดหินทุบหิน ด่านล่างคือตารางการปลดล๊อคการคราฟและทักษะพิเศษในเลเวลต่างๆของสกิล",
+            "level": [
+                {
+                    "title": "Crafting Recipes: Level 1",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Cherry_Bomb.png?resize=24%2C24",
+                            "name": "Cherry Bomb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 2",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Staircase.png?resize=24%2C24",
+                            "name": "Staircase"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 3",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/9/9a/Miners_Treat.png/24px-Miners_Treat.png?resize=24%2C24",
+                            "name": "Miner’s Treat"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 4",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Iron_Bar.png?resize=24%2C24",
+                            "name": "Transmute (Fe)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 5 (เลือกอย่างใดอย่างหนึ่ง)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/4/4a/Miner.png/24px-Miner.png?resize=24%2C24",
+                            "name": "<b>Miner</b><br>เมื่อทำลายหินแร่ด้วยที่ขุดหิน จะได้แร่เพิ่มขึ้น 1 อัน/1 หินแร่"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/8/88/Geologist.png/24px-Geologist.png?resize=24%2C24",
+                            "name": "<b>Geologist</b><br>Chance for Gems to appear in pairs เพิ่มโอกาสที่จะเจออัญมณีเพิ่มขึ้น"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 6",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Bomb.png?resize=24%2C24",
+                            "name": "Bomb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 7",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Gold_Bar.png?resize=24%2C24",
+                            "name": "Transmute (Au)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 8",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/4/4f/Mega_Bomb.png/24px-Mega_Bomb.png?resize=24%2C24",
+                            "name": "Mega Bomb"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 9",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Crystalarium.png?resize=24%2C48",
+                            "name": "Crystalarium"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 10 (เลือกอย่างใดอย่างหนึ่ง ตามสายที่เลือกมาจากข้อ 5)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/4/4a/Miner.png/24px-Miner.png?resize=24%2C24",
+                            "name": "<u><b>Miner</u></b>"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Blacksmith_Icon.png/24px-Blacksmith_Icon.png?resize=24%2C24",
+                            "name": "<b>Blacksmith</b><br>Metal bars จะสามารถขายได้ราคามากขึ้น 25%"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/a/ae/Prospector.png/24px-Prospector.png?resize=24%2C24",
+                            "name": "<b>Prospector</b><br>มีโอกาสได้ Coal มากขึ้นสองเท่า"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/8/88/Geologist.png/24px-Geologist.png?resize=24%2C24",
+                            "name": "<u><b>Geologist</u></b>"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/5/53/Excavator.png/24px-Excavator.png?resize=24%2C24",
+                            "name": "<b>Excavator</b><br>เก็บ อัญมณี(Gems) ได้ 2 ชิ้นต่อ 1 ชิ้นที่เก็บได้"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/3/3c/Gemologist.png/24px-Gemologist.png?resize=24%2C24",
+                            "name": "<b>Gemologist</b><br>อัญมณี(Gems) ราคาเพิ่มขึ้น 30%"
+                        }
+                    ]
+                }
+            ]
+        },
+        "foraging": {
+            "desc": "ในเลเวลนี้จะได้รับ+1ประสิทธิภาพในการใช้ขวาน tools.สามารถเพิ่มเลเวลนี้ได้ด้วยการเก็บของในป่า ร่วมทั้งการหาของ และการตัดต้นไม้ด้วยขวาน ด่านล่างคือตารางการปลดล๊อคการคราฟและทักษะพิเศษในเลเวลต่างๆของสกิล",
+            "level": [
+                {
+                    "title": "Crafting Recipes: Level 1",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Wild_Seeds_Sp.png?resize=24%2C24",
+                            "name": "Wild Seeds (Sp)"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Field_Snack.png?resize=24%2C24",
+                            "name": "Field Snack<br>ต้นไม้มีโอกาสดรอปเมล็ดพันธุ์ในบางครั้ง"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 2",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Survival_Burger.png?resize=24%2C24",
+                            "name": "Survival Burger"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 3",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Tapper.png?resize=24%2C46",
+                            "name": "Tapper"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 4",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Charcoal_Kiln.png?resize=24%2C48",
+                            "name": "Charcoal Kiln"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Wild_Seeds_Su.png?resize=24%2C24",
+                            "name": "Wild Seeds (Su)<br>+1 เมื่อเก็บเกี่ยวเบอร์รี่ป่าจะได้เพิ่มอีก 1 ลูก"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 5 (เลือกอย่างใดอย่างหนึ่ง)",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Forester.png?resize=24%2C24",
+                            "name": "<b>Forester</b><br>ไม้ขายได้ราคาแพงขึ้น 50%"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Gatherer.png?resize=24%2C24",
+                            "name": "<b>Gatherer</b><br>เพิ่มโอกาสได้ของ2ชิ้นจากการเก็บ foraged 1ชิ้น"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 6",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Lightning_Rod.png?resize=24%2C48",
+                            "name": "Lightning Rod"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Wild_Seeds_Fa.png?resize=24%2C24",
+                            "name": "Wild Seeds (Fa)"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Warp_Totem_Beach.png?resize=24%2C24",
+                            "name": "Warp Totem Beach"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 7",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Wild_Seeds_%28Wi%29.png/24px-Wild_Seeds_%28Wi%29.png?resize=24%2C24",
+                            "name": "Wild Seeds (Wi)"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/d/d8/Warp_Totem_Mountains.png/24px-Warp_Totem_Mountains.png?resize=24%2C24",
+                            "name": "Warp Totem Mountains"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 8",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Warp_Totem_Farm.png/24px-Warp_Totem_Farm.png?resize=24%2C24",
+                            "name": "Warp Totem Farm"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 9",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/f/f7/Rain_Totem.png/24px-Rain_Totem.png?resize=24%2C24",
+                            "name": "Rain Totem"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 10 (เลือกอย่างใดอย่างหนึ่ง ตามสายที่เลือกมาจากข้อ 5)",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Forester.png?resize=24%2C24",
+                            "name": "<b><u>Forester</b></u>"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/c/cc/Lumberjack.png/24px-Lumberjack.png?resize=24%2C24",
+                            "name": "<b>Lumberjack</b><br>ต้นไม้ปกติจะสามารถดรอป hardwood"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Tapper_Icon.png/24px-Tapper_Icon.png?resize=24%2C24",
+                            "name": "<b>Tapper</b><br>Syrup ขายได้ราคาแพงขึ้น 25%"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Gatherer.png?resize=24%2C24",
+                            "name": "<b><u>Gatherer</b></u>"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/8/86/Botanist.png/24px-Botanist.png?resize=24%2C24",
+                            "name": "<b>Botanist</b>สามารถเก็บ Foraged ได้คุณภาพดีมากเสมอ"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Tracker.png/24px-Tracker.png?resize=24%2C24",
+                            "name": "<b>Tracker</b><br>บอกตำแหน่งของitemจำพวก foraging (ของป่าต่างๆ/ไส้เดือน)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "fishing": {
+            "desc": "ในเลเวลนี้จะได้รับ+1ประสิทธิภาพในการใช้เบ็ดตกปลา tools.สามารถเพิ่มเลเวลนี้ได้ด้วยการจับปลาหรือตกปลาด้วยเบ็ดตกปลา ด่านล่างคือตารางการปลดล๊อคการคราฟและทักษะพิเศษในเลเวลต่างๆของสกิล",
+            "level": [
+                {
+                    "title": "Crafting Recipes: Level 2",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Bait.png?resize=24%2C24",
+                            "name": "เหยื่อตกปลา (Bait)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 3",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Crab_Pot.png?resize=24%2C24",
+                            "name": "Crab Pot"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Dish_O_The_Sea.png?resize=24%2C21",
+                            "name": "Dish O’ The Sea"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 4",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Recycling_Machine.png?resize=24%2C46",
+                            "name": "Recycling Machine"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 5 (เลือกอย่างใดอย่างหนึ่ง)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Fisher.png?resize=24%2C24",
+                            "name": "<b>Fisher</b><br>item จำพวก fish(ปลา) ขายได้ราคาแพงขึ้น 25%"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Trapper.png?resize=24%2C24",
+                            "name": "<b>Trapper</b><br>ใช้ของคราฟ crab pots น้อยลง"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 6",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Spinner.png?resize=24%2C24",
+                            "name": "Spinner"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Trap_Bobber.png?resize=24%2C24",
+                            "name": "Trap Bobber"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 7",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Cork_Bobber.png?resize=24%2C24",
+                            "name": "Cork Bobber"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Treasure_Hunter.png?resize=24%2C24",
+                            "name": "Treasure Hunter"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 8",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/7/71/Worm_Bin.png/24px-Worm_Bin.png?resize=24%2C48",
+                            "name": "Worm Bin"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Barbed_Hook.png?resize=24%2C24",
+                            "name": "Barbed Hook"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Dressed_Spinner.png?resize=24%2C24",
+                            "name": "Dressed Spinner"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 9",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Magnet.png?resize=24%2C24",
+                            "name": "Magnet"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 10 (เลือกอย่างใดอย่างหนึ่ง ตามสายที่เลือกมาจากข้อ 5)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Fisher.png?resize=24%2C24",
+                            "name": "<b><u>Fisher</b></u>"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/2/22/Angler_Icon.png/24px-Angler_Icon.png?resize=24%2C24",
+                            "name": "<b>Angler</b><br>Fish ปลาขายได้ราคาแพงขึ้น 50%"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Pirate.png/24px-Pirate.png?resize=24%2C24",
+                            "name": "<b>Pirate</b><br>เพิ่มโอกาสสองเท่าในการพบกล่องสมบัติ"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Trapper.png?resize=24%2C24",
+                            "name": "<b><u>Trapper</b></u>"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/0/03/Mariner.png/24px-Mariner.png?resize=24%2C24",
+                            "name": "<b>Mariner</b><br>Crab pots จะไม่สามารถเก็บขยะได้อีกต่อไป"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/2/29/Luremaster.png/24px-Luremaster.png?resize=24%2C24",
+                            "name": "<b>Luremaster</b><br>Crab pots ไม่ต้องใช้เหยื่อล่อ Bait"
+                        }
+                    ]
+                }
+            ]
+        },
+        "combat": {
+            "desc": "ในเลเวลนี้จะได้รับ+5พลังชีวิต สามารถเพิ่มเลเวลนี้ได้ด้วยการต่อสู้กับ monsters ด่านล่างคือตารางการปลดล๊อคการคราฟและทักษะพิเศษในเลเวลต่างๆของสกิล",
+            "level": [
+                {
+                    "title": "Crafting Recipes: Level 1",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Sturdy_Ring.png?resize=24%2C24",
+                            "name": "Sturdy Ring"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 2",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Life_Elixir.png?resize=24%2C24",
+                            "name": "Life Elixir"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 3",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Roots_Platter.png?resize=24%2C24",
+                            "name": "Roots Platter"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 4",
+                    "item":[
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Warrior_Ring.png?resize=24%2C24",
+                            "name": "Warrior Ring"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 5 (เลือกอย่างใดอย่างหนึ่ง)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Fighter.png?resize=24%2C24",
+                            "name": "<br>โจมตีแรงขึ้น 10%<br>+15 พลังชีวิต"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Scout.png?resize=24%2C24",
+                            "name": "<b>Scout</b><br>โอกาสตีติดคริติคอลเพิ่มขึ้น 50%"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 6",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Slime_Egg-Press.png?resize=24%2C46",
+                            "name": "Slime Egg-Press"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Oil_of_Garlic.png?resize=24%2C24",
+                            "name": "Oil of Garlic"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 7",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/2/21/Ring_of_Yoba.png/24px-Ring_of_Yoba.png?resize=24%2C24",
+                            "name": "Ring of Yoba"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 8",
+                    "item":[
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Slime_Incubator.png?resize=24%2C46",
+                            "name": "Slime Incubator"
+                        },
+                        {
+                            "image": "http://i1.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/f/f3/Explosive_Ammo.png/24px-Explosive_Ammo.png?resize=24%2C24",
+                            "name": "Explosive Ammo"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crafting Recipes: Level 9",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/7/77/Iridium_Band.png/24px-Iridium_Band.png?resize=24%2C24",
+                            "name": "Iridium Band"
+                        }
+                    ]
+                },
+                {
+                    "title": "Choose a profession: Level 10 (เลือกอย่างใดอย่างหนึ่ง ตามสายที่เลือกมาจากข้อ 5)",
+                    "item":[
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Fighter.png?resize=24%2C24",
+                            "name": "<b><u>Fighter</u></b>"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Brute.png/24px-Brute.png?resize=24%2C24",
+                            "name": "<b>Brute</b><br>โจมตีแรงขึ้น 15%"
+                        },
+                        {
+                            "image": "http://i0.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/0/0d/Defender.png/24px-Defender.png?resize=24%2C24",
+                            "name": "<b>Defender</b><br>+25พลังชีวิต"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywikithai.com/wp-content/uploads/2016/03/24px-Scout.png?resize=24%2C24",
+                            "name": "<b><u>Scout</u></b>"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Acrobat.png/24px-Acrobat.png?resize=24%2C24",
+                            "name": "<b>Acrobat</b><br>เวลาคูลดาวน์การใช้ท่าพิเศษ(คลิกขวาเมื่อใช้อาวุธ)ลดลงครึ่งหนึ่ง"
+                        },
+                        {
+                            "image": "http://i2.wp.com/stardewvalleywiki.com/mediawiki/images/thumb/5/57/Desperado.png/24px-Desperado.png?resize=24%2C24",
+                            "name": "<b>Desperado</b><br>ตีติดคริทีเดียวตาย"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

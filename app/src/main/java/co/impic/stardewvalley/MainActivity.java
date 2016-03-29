@@ -21,6 +21,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
+
+import co.impic.stardewvalley.CustomFragment.SkillsListsFragment;
 import co.impic.stardewvalley.CustomFragment.VillagerFragment;
 import co.impic.stardewvalley.CustomFragment.VillagersListsFragment;
 
@@ -30,11 +34,19 @@ public class MainActivity extends AppCompatActivity
     NavigationView navigationView;
     private static long back_pressed;
 
+    Tracker mTracker;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Obtain the shared Tracker instance.
+        AnalyticsApplication application = (AnalyticsApplication) getApplication();
+        mTracker = application.getDefaultTracker();
+        mTracker.setScreenName("Home Page Lists Villagers");
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
+
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -61,6 +73,14 @@ public class MainActivity extends AppCompatActivity
         transaction.replace(R.id.content_layout, fragment);
         transaction.commit();
 
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+
+        mTracker.setScreenName("Home Page Lists Villagers");
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
     }
 
     public void openBrowser(View view){
@@ -115,6 +135,7 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
         boolean is_fragment = false;
+        boolean is_next = false;
 
         Fragment fragment = null;
 
@@ -138,6 +159,37 @@ public class MainActivity extends AppCompatActivity
                 is_fragment = true;
                 fragment = VillagerFragment.newInstance("mrqi");
                 break;
+            case R.id.nav_skills:
+                is_fragment = true;
+                navigationView.getMenu().clear();
+                navigationView.inflateMenu(R.menu.skills_submenu_drawer);
+                fragment = SkillsListsFragment.newInstance("lists");
+                break;
+            case R.id.skills_sub_farming:
+                is_fragment = true;
+                is_next = true;
+                fragment = SkillsListsFragment.newInstance("farming");
+                break;
+            case R.id.skills_sub_mining:
+                is_fragment = true;
+                is_next = true;
+                fragment = SkillsListsFragment.newInstance("mining");
+                break;
+            case R.id.skills_sub_foraging:
+                is_fragment = true;
+                is_next = true;
+                fragment = SkillsListsFragment.newInstance("foraging");
+                break;
+            case R.id.skills_sub_fishing:
+                is_fragment = true;
+                is_next = true;
+                fragment = SkillsListsFragment.newInstance("fishing");
+                break;
+            case R.id.skills_sub_combat:
+                is_fragment = true;
+                is_next = true;
+                fragment = SkillsListsFragment.newInstance("combat");
+                break;
             default:
                 is_fragment = true;
                 fragment = VillagerFragment.newInstance(((String) item.getTitle()).toLowerCase());
@@ -146,7 +198,9 @@ public class MainActivity extends AppCompatActivity
         if (is_fragment){
 
             // Insert the fragment by replacing any existing fragment
-            getSupportFragmentManager().popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            if (!is_next) {
+                getSupportFragmentManager().popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            }
 
             FragmentManager fragmentManager = getSupportFragmentManager();
             FragmentTransaction transaction = fragmentManager.beginTransaction();

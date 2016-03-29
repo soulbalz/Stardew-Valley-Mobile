@@ -14,6 +14,8 @@ import android.widget.TextView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 import com.squareup.picasso.Picasso;
 
 import org.json.JSONArray;
@@ -23,6 +25,7 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
 
+import co.impic.stardewvalley.AnalyticsApplication;
 import co.impic.stardewvalley.CustomRecyclerAdapter.VillagerDetailGiftRecyclerAdapter;
 import co.impic.stardewvalley.CustomRecyclerAdapter.VillagerDetailHeartLevelsRecyclerAdapter;
 import co.impic.stardewvalley.R;
@@ -38,6 +41,8 @@ public class VillagerFragment extends Fragment {
     protected RecyclerView.LayoutManager mLayoutManager;
     protected JSONArray mDataset;
     protected JSONObject jsonData;
+
+    Tracker mTracker;
 
     public VillagerFragment() {
         // Required empty public constructor
@@ -76,6 +81,13 @@ public class VillagerFragment extends Fragment {
     @Override
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+
+        // Obtain the shared Tracker instance.
+        AnalyticsApplication application = (AnalyticsApplication) getActivity().getApplication();
+        mTracker = application.getDefaultTracker();
+
+        mTracker.setScreenName("Villagers Page - " + filename);
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
 
         AdView adView = (AdView) view.findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder()
@@ -149,6 +161,14 @@ public class VillagerFragment extends Fragment {
         Integer bottomSize = (int) (Integer.parseInt(splitSize2[1]) * scale + 0.5f);
 
         sv.setPadding(16, 16, 16, bottomSize);
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+
+        mTracker.setScreenName("Villager Page - " + filename);
+        mTracker.send(new HitBuilders.ScreenViewBuilder().build());
     }
 
     private void initDataset() {
